@@ -1,0 +1,682 @@
+id,"tanggal (WIB)","waktu (WIB)",lintang,bujur,"tingkat kepercayaan",satelit,"radius kemungkinan",kecamatan,kabupaten,provinsi,tipe
+490318,2022-09-01,00:50:19,-1.55827165,113.6625824,8,noaa20,1125,Rungan,"Gunung Mas","Kalimantan Tengah",Pixel
+490664,2022-09-01,12:38:43,-3.11069465,112.58078766,8,snpp,1125,"Seruyan Hilir Timur",Seruyan,"Kalimantan Tengah",Pixel
+490665,2022-09-01,12:38:43,-3.11421943,112.58130646,8,snpp,1125,"Seruyan Hilir Timur",Seruyan,"Kalimantan Tengah",Pixel
+490666,2022-09-01,12:38:43,-3.10658002,112.58419037,8,snpp,1125,"Seruyan Hilir Timur",Seruyan,"Kalimantan Tengah",Pixel
+490840,2022-09-01,13:29:55,-3.11247182,112.57961273,8,noaa20,1125,"Seruyan Hilir Timur",Seruyan,"Kalimantan Tengah",Pixel
+490847,2022-09-01,13:29:55,-3.06254721,110.99607849,8,noaa20,1125,"Pantai Lunci",Sukamara,"Kalimantan Tengah",Pixel
+490863,2022-09-01,13:29:55,-1.07587469,112.43533325,8,noaa20,1125,"Katinga Hulu",Katingan,"Kalimantan Tengah",Pixel
+490867,2022-09-01,13:29:55,-0.08523595,113.62468719,8,noaa20,1125,"Seribu Riam","Murung Raya","Kalimantan Tengah",Pixel
+490868,2022-09-01,13:29:55,-0.08860983,113.62288666,8,noaa20,1125,"Seribu Riam","Murung Raya","Kalimantan Tengah",Pixel
+491034,2022-09-02,00:31:24,-1.29104125,114.77062988,8,noaa20,1125,Montallat,"Barito Utara","Kalimantan Tengah",Pixel
+491035,2022-09-02,00:31:24,-1.28762221,114.77114868,8,noaa20,1125,Montallat,"Barito Utara","Kalimantan Tengah",Pixel
+491038,2022-09-02,00:31:24,-1.59677947,113.43080902,8,noaa20,1125,"Pulau Malam",Katingan,"Kalimantan Tengah",Pixel
+491044,2022-09-02,00:31:24,-3.15202093,113.64330292,8,noaa20,1125,"Kahayan Kuala",Pulangpisau,"Kalimantan Tengah",Pixel
+491073,2022-09-02,01:25:26,-1.28707469,114.76972961,8,snpp,1125,Montallat,"Barito Utara","Kalimantan Tengah",Pixel
+491076,2022-09-02,01:25:26,-2.46374154,112.03462982,8,snpp,1125,Hanau,Seruyan,"Kalimantan Tengah",Pixel
+491078,2022-09-02,01:25:26,-3.15393114,113.64311218,8,snpp,1125,"Kahayan Kuala",Pulangpisau,"Kalimantan Tengah",Pixel
+491079,2022-09-02,01:25:26,-3.15315485,113.64361572,8,snpp,1125,"Kahayan Kuala",Pulangpisau,"Kalimantan Tengah",Pixel
+491342,2022-09-02,12:19:47,-1.55717528,114.43644714,8,snpp,1125,Timpah,Kapuas,"Kalimantan Tengah",Pixel
+491530,2022-09-02,13:11:00,-2.30098844,112.66505432,8,noaa20,1125,Telawang,"Waringin Timur","Kalimantan Tengah",Pixel
+491531,2022-09-02,13:11:00,-2.41564441,111.45418549,8,noaa20,1125,"Kotawaringin Lama","Waringin Barat","Kalimantan Tengah",Pixel
+491532,2022-09-02,13:11:00,-1.8492105,112.78865051,8,noaa20,1125,Parenggean,"Waringin Timur","Kalimantan Tengah",Pixel
+491533,2022-09-02,13:11:00,-1.85343802,112.78928375,8,noaa20,1125,Parenggean,"Waringin Timur","Kalimantan Tengah",Pixel
+491536,2022-09-02,13:11:00,-1.48628294,113.12496948,8,noaa20,1125,"Katingan Tengah",Katingan,"Kalimantan Tengah",Pixel
+491537,2022-09-02,13:11:00,-1.32596552,113.89250183,8,noaa20,1125,Kurun,"Gunung Mas","Kalimantan Tengah",Pixel
+491538,2022-09-02,13:11:00,-1.21537626,114.34378815,8,noaa20,1125,"Kapuas Tengah",Kapuas,"Kalimantan Tengah",Pixel
+491539,2022-09-02,13:11:00,-1.21656251,114.34132385,8,noaa20,1125,"Kapuas Tengah",Kapuas,"Kalimantan Tengah",Pixel
+491967,2022-09-03,12:50:39,-0.96926701,114.67421722,8,noaa20,1125,"Teweh Tengah","Barito Utara","Kalimantan Tengah",Pixel
+491968,2022-09-03,12:50:39,-0.9711262,114.67450714,8,noaa20,1125,"Teweh Tengah","Barito Utara","Kalimantan Tengah",Pixel
+491969,2022-09-03,12:50:39,-0.92817372,114.72702789,8,noaa20,1125,"Teweh Tengah","Barito Utara","Kalimantan Tengah",Pixel
+491970,2022-09-03,12:50:39,-0.92754745,114.73117065,8,noaa20,1125,"Teweh Tengah","Barito Utara","Kalimantan Tengah",Pixel
+491971,2022-09-03,12:50:39,-0.4753913,114.90258026,8,noaa20,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+493026,2022-09-07,12:26:10,-3.16923976,112.95257568,8,snpp,1125,"Teluk Sampit","Waringin Timur","Kalimantan Tengah",Pixel
+493027,2022-09-07,12:26:10,-3.16647673,112.95246124,8,snpp,1125,"Teluk Sampit","Waringin Timur","Kalimantan Tengah",Pixel
+493031,2022-09-07,12:26:10,-2.69654822,112.37697601,8,snpp,1125,"Danau Sembuluh",Seruyan,"Kalimantan Tengah",Pixel
+493159,2022-09-07,12:59:00,-3.1644046306610107,112.84288024902344,8,aqua,3000,"Teluk Sampit","Waringin Timur","Kalimantan Tengah",Pixel
+493181,2022-09-07,13:17:22,-1.69076753,111.08122253,8,noaa20,1125,Delang,Lamandau,"Kalimantan Tengah",Pixel
+493635,2022-09-08,12:07:16,-2.70045376,114.76052094,8,snpp,1125,"Kapuas Murung",Kapuas,"Kalimantan Tengah",Pixel
+493636,2022-09-08,12:07:16,-2.70001721,114.7634201,8,snpp,1125,"Kapuas Murung",Kapuas,"Kalimantan Tengah",Pixel
+493701,2022-09-08,12:57:02,-2.61786652,114.76328278,8,noaa20,1125,"Kapuas Murung",Kapuas,"Kalimantan Tengah",Pixel
+493702,2022-09-08,12:57:02,-2.62173581,114.7638855,8,noaa20,1125,"Kapuas Murung",Kapuas,"Kalimantan Tengah",Pixel
+493703,2022-09-08,12:57:02,-2.61324167,114.76751709,8,noaa20,1125,"Kapuas Murung",Kapuas,"Kalimantan Tengah",Pixel
+493704,2022-09-08,12:57:02,-2.60937119,114.76692963,8,noaa20,1125,"Kapuas Murung",Kapuas,"Kalimantan Tengah",Pixel
+493705,2022-09-08,12:57:02,-2.56477475,114.81672668,8,noaa20,1125,Jenamas,"Barito Selatan","Kalimantan Tengah",Pixel
+494360,2022-09-10,00:32:12,-1.29377139,114.75699615,8,snpp,1125,Montallat,"Barito Utara","Kalimantan Tengah",Pixel
+495260,2022-09-11,12:51:29,-3.05142021,114.09082794,8,snpp,1125,"Pedih Batu",Pulangpisau,"Kalimantan Tengah",Pixel
+495263,2022-09-11,12:51:29,-2.90818405,111.14208221,8,snpp,1125,"Pantai Lunci",Sukamara,"Kalimantan Tengah",Pixel
+495264,2022-09-11,12:51:29,-2.90765738,111.14557648,8,snpp,1125,"Pantai Lunci",Sukamara,"Kalimantan Tengah",Pixel
+495266,2022-09-11,12:51:29,-1.77519381,112.5331192,8,snpp,1125,Antangkalang,"Waringin Timur","Kalimantan Tengah",Pixel
+495270,2022-09-11,12:51:29,-1.48296618,113.12466431,8,snpp,1125,"Katingan Tengah",Katingan,"Kalimantan Tengah",Pixel
+495271,2022-09-11,12:51:29,-1.58923304,111.95333099,8,snpp,1125,"Seruyan Tengah",Seruyan,"Kalimantan Tengah",Pixel
+495465,2022-09-12,00:42:44,-1.54668367,114.55558777,8,noaa20,1125,Timpah,Kapuas,"Kalimantan Tengah",Pixel
+495760,2022-09-12,13:23:45,-2.54985666,114.8282547,8,noaa20,1125,Jenamas,"Barito Selatan","Kalimantan Tengah",Pixel
+495762,2022-09-12,13:23:45,-1.95984375,115.36950684,8,noaa20,1125,"Patang Kepulau Tutui","Barito Timur","Kalimantan Tengah",Pixel
+495763,2022-09-12,13:23:45,-1.91938472,115.30443573,8,noaa20,1125,Awang,"Barito Timur","Kalimantan Tengah",Pixel
+495778,2022-09-12,13:23:45,-2.25846457,111.0899353,8,noaa20,1125,"Permata Kecubung",Sukamara,"Kalimantan Tengah",Pixel
+495790,2022-09-12,13:23:45,-1.9518019,112.14215851,8,noaa20,1125,"Seruyan Tengah",Seruyan,"Kalimantan Tengah",Pixel
+495797,2022-09-12,13:23:45,-1.92539954,111.55407715,8,noaa20,1125,"Bulik Timur",Lamandau,"Kalimantan Tengah",Pixel
+495798,2022-09-12,13:23:45,-1.92385173,111.55653381,8,noaa20,1125,"Bulik Timur",Lamandau,"Kalimantan Tengah",Pixel
+495799,2022-09-12,13:23:45,-1.91016042,111.52478027,8,noaa20,1125,"Bulik Timur",Lamandau,"Kalimantan Tengah",Pixel
+495800,2022-09-12,13:23:45,-1.90966284,111.52215576,8,noaa20,1125,"Bulik Timur",Lamandau,"Kalimantan Tengah",Pixel
+495817,2022-09-12,13:23:45,-0.83231091,114.83782959,8,noaa20,1125,"Lahei Barat","Barito Utara","Kalimantan Tengah",Pixel
+495819,2022-09-12,13:23:45,-0.67898196,114.69244385,8,noaa20,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+495820,2022-09-12,13:23:45,-0.68058938,114.68876648,8,noaa20,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+495821,2022-09-12,13:23:45,-0.67968452,114.6878891,8,noaa20,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+495827,2022-09-12,13:23:45,-0.54106748,114.93643951,8,noaa20,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+495828,2022-09-12,13:23:45,-0.5403598,114.9349823,8,noaa20,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+495829,2022-09-12,13:23:45,-0.53088266,114.92041779,8,noaa20,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+495830,2022-09-12,13:23:45,-0.53028017,114.91898346,8,noaa20,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+495831,2022-09-12,13:23:45,-0.96733654,112.0524826,8,noaa20,1125,"Seruyan Hulu",Seruyan,"Kalimantan Tengah",Pixel
+495832,2022-09-12,13:23:45,-0.97050095,112.05513,8,noaa20,1125,"Seruyan Hulu",Seruyan,"Kalimantan Tengah",Pixel
+495833,2022-09-12,13:23:45,-0.96686941,112.05552673,7,noaa20,1125,"Seruyan Hulu",Seruyan,"Kalimantan Tengah",Pixel
+495835,2022-09-12,13:23:45,-0.50301635,114.89637756,8,noaa20,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+495836,2022-09-12,13:23:45,-0.50229102,114.90100861,8,noaa20,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+495915,2022-09-12,13:23:45,0.09644132,113.90288544,8,noaa20,1125,"Seribu Riam","Murung Raya","Kalimantan Tengah",Pixel
+495916,2022-09-12,13:23:45,0.09044569,113.90277863,8,noaa20,1125,"Seribu Riam","Murung Raya","Kalimantan Tengah",Pixel
+496491,2022-09-12,12:32:33,-2.60788512,114.7898407,7,snpp,1125,"Kapuas Murung",Kapuas,"Kalimantan Tengah",Pixel
+496492,2022-09-12,12:32:33,-1.96794677,115.3639679,8,snpp,1125,"Patang Kepulau Tutui","Barito Timur","Kalimantan Tengah",Pixel
+496493,2022-09-12,12:32:33,-1.93985224,115.26483917,8,snpp,1125,Awang,"Barito Timur","Kalimantan Tengah",Pixel
+496508,2022-09-12,12:32:33,-2.21919751,111.3381958,8,snpp,1125,"Permata Kecubung",Sukamara,"Kalimantan Tengah",Pixel
+496516,2022-09-12,12:32:33,-1.95341229,112.14121246,8,snpp,1125,"Seruyan Tengah",Seruyan,"Kalimantan Tengah",Pixel
+496520,2022-09-12,12:32:33,-1.82275784,111.57452393,8,snpp,1125,"Bulik Timur",Lamandau,"Kalimantan Tengah",Pixel
+496524,2022-09-12,12:32:33,-1.83825386,111.41582489,8,snpp,1125,"Belantika Raya",Lamandau,"Kalimantan Tengah",Pixel
+496529,2022-09-12,12:32:33,-1.75646889,111.18779755,8,snpp,1125,"Batang Kawa",Lamandau,"Kalimantan Tengah",Pixel
+496532,2022-09-12,12:32:33,-1.73755252,111.17379761,8,snpp,1125,"Batang Kawa",Lamandau,"Kalimantan Tengah",Pixel
+496533,2022-09-12,12:32:33,-1.10733306,115.33574677,8,snpp,1125,"Gunung Timang","Barito Utara","Kalimantan Tengah",Pixel
+496534,2022-09-12,12:32:33,-1.72530997,111.17912292,8,snpp,1125,"Batang Kawa",Lamandau,"Kalimantan Tengah",Pixel
+496535,2022-09-12,12:32:33,-1.72416568,111.17919159,8,snpp,1125,"Batang Kawa",Lamandau,"Kalimantan Tengah",Pixel
+496536,2022-09-12,12:32:33,-1.10117006,115.33123779,8,snpp,1125,"Gunung Timang","Barito Utara","Kalimantan Tengah",Pixel
+496537,2022-09-12,12:32:33,-1.7018944,111.11214447,8,snpp,1125,Delang,Lamandau,"Kalimantan Tengah",Pixel
+496538,2022-09-12,12:32:33,-1.69308186,111.1146698,8,snpp,1125,Delang,Lamandau,"Kalimantan Tengah",Pixel
+496539,2022-09-12,12:32:33,-1.68483555,111.11347198,8,snpp,1125,Delang,Lamandau,"Kalimantan Tengah",Pixel
+496540,2022-09-12,12:32:33,-1.68762589,111.09494019,8,snpp,1125,Delang,Lamandau,"Kalimantan Tengah",Pixel
+496541,2022-09-12,12:32:33,-1.67464483,111.15324402,8,snpp,1125,Delang,Lamandau,"Kalimantan Tengah",Pixel
+496542,2022-09-12,12:32:33,-1.68625808,111.07598114,8,snpp,1125,Delang,Lamandau,"Kalimantan Tengah",Pixel
+496543,2022-09-12,12:32:33,-1.67359996,111.04756927,8,snpp,1125,Delang,Lamandau,"Kalimantan Tengah",Pixel
+496544,2022-09-12,12:32:33,-1.60684192,111.16872406,8,snpp,1125,"Batang Kawa",Lamandau,"Kalimantan Tengah",Pixel
+496546,2022-09-12,12:32:33,-1.58034337,111.09423065,8,snpp,1125,Delang,Lamandau,"Kalimantan Tengah",Pixel
+496547,2022-09-12,12:32:33,-0.94507277,114.80902863,7,snpp,1125,"Teweh Tengah","Barito Utara","Kalimantan Tengah",Pixel
+496554,2022-09-12,12:32:33,-0.53122848,114.87773132,8,snpp,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+496555,2022-09-12,12:32:33,-0.5345968,114.87823486,7,snpp,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+496556,2022-09-12,12:32:33,-0.52786005,114.87722778,8,snpp,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+496557,2022-09-12,12:32:33,-0.56371623,114.68484497,8,snpp,1125,Murung,"Murung Raya","Kalimantan Tengah",Pixel
+496873,2022-09-13,00:23:48,-1.12606037,114.45646667,8,noaa20,1125,"Kapuas Tengah",Kapuas,"Kalimantan Tengah",Pixel
+496874,2022-09-13,00:23:48,-1.28820992,114.7701416,8,noaa20,1125,Montallat,"Barito Utara","Kalimantan Tengah",Pixel
+498172,2022-09-15,00:38:36,-1.59803534,113.43138123,8,snpp,1125,"Pulau Malam",Katingan,"Kalimantan Tengah",Pixel
+498198,2022-09-15,01:31:14,-3.14845371,113.64315033,8,noaa20,1125,"Kahayan Kuala",Pulangpisau,"Kalimantan Tengah",Pixel
+498597,2022-09-15,12:25:34,-3.04725695,111.00014496,8,noaa20,1125,"Pantai Lunci",Sukamara,"Kalimantan Tengah",Pixel
+498609,2022-09-15,12:25:34,-1.59596288,111.16195679,8,noaa20,1125,"Batang Kawa",Lamandau,"Kalimantan Tengah",Pixel
+498610,2022-09-15,12:25:34,-1.59539592,111.16455841,8,noaa20,1125,"Batang Kawa",Lamandau,"Kalimantan Tengah",Pixel
+498611,2022-09-15,12:25:34,-1.59365773,111.08513641,8,noaa20,1125,Delang,Lamandau,"Kalimantan Tengah",Pixel
+498612,2022-09-15,12:25:34,-1.59251475,111.08759308,8,noaa20,1125,Delang,Lamandau,"Kalimantan Tengah",Pixel
+498613,2022-09-15,12:25:34,-1.57916439,111.08733368,8,noaa20,1125,Delang,Lamandau,"Kalimantan Tengah",Pixel
+498616,2022-09-15,12:25:34,-1.47029901,111.15551758,8,noaa20,1125,"Batang Kawa",Lamandau,"Kalimantan Tengah",Pixel
+498617,2022-09-15,12:25:34,-1.05340481,112.43623352,8,noaa20,1125,"Katinga Hulu",Katingan,"Kalimantan Tengah",Pixel
+498619,2022-09-15,12:25:34,-1.09859598,111.99816132,8,noaa20,1125,"Seruyan Hulu",Seruyan,"Kalimantan Tengah",Pixel
+498620,2022-09-15,12:25:34,-0.59200853,115.12016296,8,noaa20,1125,Lahei,"Barito Utara","Kalimantan Tengah",Pixel
+498799,2022-09-15,13:18:12,-2.59341002,114.77283478,8,snpp,1125,Jenamas,"Barito Selatan","Kalimantan Tengah",Pixel
+498800,2022-09-15,13:18:12,-3.04232836,110.99840546,8,snpp,1125,"Pantai Lunci",Sukamara,"Kalimantan Tengah",Pixel
+498801,2022-09-15,13:18:12,-3.04705763,110.99533081,8,snpp,1125,"Pantai Lunci",Sukamara,"Kalimantan Tengah",Pixel
+498802,2022-09-15,13:18:12,-3.04291081,110.99468231,8,snpp,1125,"Pantai Lunci",Sukamara,"Kalimantan Tengah",Pixel
+498815,2022-09-15,13:18:12,-1.58653557,111.07606506,8,snpp,1125,Delang,Lamandau,"Kalimantan Tengah",Pixel
+498816,2022-09-15,13:18:12,-1.58591461,111.08001709,8,snpp,1125,Delang,Lamandau,"Kalimantan Tengah",Pixel
+498819,2022-09-15,13:18:12,-1.48813152,111.1554718,8,snpp,1125,"Batang Kawa",Lamandau,"Kalimantan Tengah",Pixel
+498820,2022-09-15,13:18:12,-1.29795969,111.8059082,8,snpp,1125,"Seruyan Hulu",Seruyan,"Kalimantan Tengah",Pixel
+498823,2022-09-15,13:18:12,-1.1609019,112.62898254,8,snpp,1125,Marikit,Katingan,"Kalimantan Tengah",Pixel
+498828,2022-09-15,13:18:12,-1.10287273,112.30940247,8,snpp,1125,"Bukit Raya",Katingan,"Kalimantan Tengah",Pixel
+498832,2022-09-15,13:18:12,-1.02423644,112.03408051,8,snpp,1125,"Seruyan Hulu",Seruyan,"Kalimantan Tengah",Pixel
+499409,2022-09-16,12:06:39,-1.24050355,111.80323792,8,noaa20,1125,"Suling Tambun",Seruyan,"Kalimantan Tengah",Pixel
+499748,2022-09-16,12:57:51,-1.63648117,111.06784058,8,snpp,1125,Delang,Lamandau,"Kalimantan Tengah",Pixel
+499749,2022-09-16,12:57:51,-1.64185226,111.03266144,8,snpp,1125,Delang,Lamandau,"Kalimantan Tengah",Pixel
+499750,2022-09-16,12:57:51,-1.63019228,111.0417099,8,snpp,1125,Delang,Lamandau,"Kalimantan Tengah",Pixel
+499751,2022-09-16,12:57:51,-1.62523055,111.05174255,8,snpp,1125,Delang,Lamandau,"Kalimantan Tengah",Pixel
+499752,2022-09-16,12:57:51,-1.62582886,110.95834351,8,snpp,1125,Delang,Lamandau,"Kalimantan Tengah",Pixel
+499753,2022-09-16,12:57:51,-1.59897637,111.00759125,8,snpp,1125,Delang,Lamandau,"Kalimantan Tengah",Pixel
+499754,2022-09-16,12:57:51,-1.55719841,111.19273376,8,snpp,1125,"Batang Kawa",Lamandau,"Kalimantan Tengah",Pixel
+499755,2022-09-16,12:57:51,-1.58559716,111.00547028,8,snpp,1125,Delang,Lamandau,"Kalimantan Tengah",Pixel
+499760,2022-09-16,12:57:51,-1.54743958,111.05368042,8,snpp,1125,Delang,Lamandau,"Kalimantan Tengah",Pixel
+499761,2022-09-16,12:57:51,-1.55025756,111.05767822,8,snpp,1125,Delang,Lamandau,"Kalimantan Tengah",Pixel
+499767,2022-09-16,12:57:51,-1.35763454,111.84305573,8,snpp,1125,"Seruyan Hulu",Seruyan,"Kalimantan Tengah",Pixel
+499769,2022-09-16,12:57:51,-1.34668219,111.79977417,8,snpp,1125,"Seruyan Hulu",Seruyan,"Kalimantan Tengah",Pixel
+499770,2022-09-16,12:57:51,-1.33087385,111.88069153,8,snpp,1125,"Seruyan Hulu",Seruyan,"Kalimantan Tengah",Pixel
+499771,2022-09-16,12:57:51,-1.33641505,111.79823303,8,snpp,1125,"Seruyan Hulu",Seruyan,"Kalimantan Tengah",Pixel
+499772,2022-09-16,12:57:51,-1.33983755,111.7987442,8,snpp,1125,"Seruyan Hulu",Seruyan,"Kalimantan Tengah",Pixel
+499773,2022-09-16,12:57:51,-1.32735586,111.83468628,8,snpp,1125,"Seruyan Hulu",Seruyan,"Kalimantan Tengah",Pixel
+499774,2022-09-16,12:57:51,-1.33078456,111.83518982,8,snpp,1125,"Seruyan Hulu",Seruyan,"Kalimantan Tengah",Pixel
+499775,2022-09-16,12:57:51,-1.32335615,111.83792114,8,snpp,1125,"Seruyan Hulu",Seruyan,"Kalimantan Tengah",Pixel
+499783,2022-09-16,12:57:51,-1.2728641,111.664505,8,snpp,1125,"Suling Tambun",Seruyan,"Kalimantan Tengah",Pixel
+499784,2022-09-16,12:57:51,-1.27230871,111.66815948,8,snpp,1125,"Suling Tambun",Seruyan,"Kalimantan Tengah",Pixel
+499786,2022-09-16,12:57:51,-1.23919618,111.81739044,8,snpp,1125,"Suling Tambun",Seruyan,"Kalimantan Tengah",Pixel
+499787,2022-09-16,12:57:51,-1.11199236,112.6074295,8,snpp,1125,Marikit,Katingan,"Kalimantan Tengah",Pixel
+499788,2022-09-16,12:57:51,-1.11138284,112.61143494,8,snpp,1125,Marikit,Katingan,"Kalimantan Tengah",Pixel
+499789,2022-09-16,12:57:51,-1.06993985,112.7399292,8,snpp,1125,Marikit,Katingan,"Kalimantan Tengah",Pixel
+499798,2022-09-16,12:57:51,-1.10804594,112.18919373,8,snpp,1125,"Bukit Raya",Katingan,"Kalimantan Tengah",Pixel
+499803,2022-09-16,12:57:51,-1.06575239,112.29631805,8,snpp,1125,"Bukit Raya",Katingan,"Kalimantan Tengah",Pixel
+499805,2022-09-16,12:57:51,-1.05177319,112.29419708,8,snpp,1125,"Bukit Raya",Katingan,"Kalimantan Tengah",Pixel
+499806,2022-09-16,12:57:51,-1.12682164,111.75447845,8,snpp,1125,"Suling Tambun",Seruyan,"Kalimantan Tengah",Pixel
+499807,2022-09-16,12:57:51,-1.03953087,112.30413818,8,snpp,1125,"Bukit Raya",Katingan,"Kalimantan Tengah",Pixel
+499810,2022-09-16,12:57:51,-0.95823491,112.4590683,8,snpp,1125,Marikit,Katingan,"Kalimantan Tengah",Pixel
+499816,2022-09-16,12:57:51,-0.94166332,112.47267914,8,snpp,1125,Marikit,Katingan,"Kalimantan Tengah",Pixel
+499830,2022-09-16,12:57:51,-0.87845886,112.2481842,8,snpp,1125,"Bukit Raya",Katingan,"Kalimantan Tengah",Pixel
+499831,2022-09-16,12:57:51,-0.87903488,112.24843597,8,snpp,1125,"Bukit Raya",Katingan,"Kalimantan Tengah",Pixel
+499832,2022-09-16,12:57:51,-0.87903643,112.24434662,8,snpp,1125,"Bukit Raya",Katingan,"Kalimantan Tengah",Pixel
+499833,2022-09-16,12:57:51,-0.8528471,112.228508,8,snpp,1125,"Bukit Raya",Katingan,"Kalimantan Tengah",Pixel
+500001,2022-09-16,13:50:31,-1.692204,111.1483078,8,noaa20,1125,Delang,Lamandau,"Kalimantan Tengah",Pixel
+500002,2022-09-16,13:50:31,-1.67546737,111.16146851,8,noaa20,1125,"Batang Kawa",Lamandau,"Kalimantan Tengah",Pixel
+500006,2022-09-16,13:50:31,-1.45639849,111.13713074,8,noaa20,1125,"Batang Kawa",Lamandau,"Kalimantan Tengah",Pixel
+500007,2022-09-16,13:50:31,-1.45994937,111.13905334,8,noaa20,1125,"Batang Kawa",Lamandau,"Kalimantan Tengah",Pixel
+500221,2022-09-17,11:47:44,-2.00494003,115.18325806,8,noaa20,1125,Awang,"Barito Timur","Kalimantan Tengah",Pixel
+500222,2022-09-17,11:47:44,-2.01156044,115.18434906,8,noaa20,1125,Awang,"Barito Timur","Kalimantan Tengah",Pixel
+500223,2022-09-17,11:47:44,-1.92968428,115.29342651,8,noaa20,1125,Awang,"Barito Timur","Kalimantan Tengah",Pixel
+500224,2022-09-17,11:47:44,-1.927953,115.29447937,8,noaa20,1125,Awang,"Barito Timur","Kalimantan Tengah",Pixel
+500226,2022-09-17,11:47:44,-1.20959103,115.09638977,8,noaa20,1125,"Gunung Timang","Barito Utara","Kalimantan Tengah",Pixel
+500477,2022-09-17,12:38:57,-2.63393044,114.73965454,8,snpp,1125,"Kapuas Murung",Kapuas,"Kalimantan Tengah",Pixel
+500480,2022-09-17,12:38:57,-2.58856583,114.7532196,8,snpp,1125,Jenamas,"Barito Selatan","Kalimantan Tengah",Pixel
+500484,2022-09-17,12:38:57,-2.54697418,114.80351257,8,snpp,1125,Jenamas,"Barito Selatan","Kalimantan Tengah",Pixel
+500485,2022-09-17,12:38:57,-2.54802203,114.79660034,8,snpp,1125,Jenamas,"Barito Selatan","Kalimantan Tengah",Pixel
+500498,2022-09-17,12:38:57,-2.004812,115.30225372,8,snpp,1125,"Patang Kepulau Tutui","Barito Timur","Kalimantan Tengah",Pixel
+500499,2022-09-17,12:38:57,-2.00813627,115.30275726,8,snpp,1125,"Patang Kepulau Tutui","Barito Timur","Kalimantan Tengah",Pixel
+500501,2022-09-17,12:38:57,-1.92335498,115.2822113,8,snpp,1125,Awang,"Barito Timur","Kalimantan Tengah",Pixel
+500502,2022-09-17,12:38:57,-1.89483345,115.31329346,8,snpp,1125,Paku,"Barito Timur","Kalimantan Tengah",Pixel
+500503,2022-09-17,12:38:57,-1.89696383,115.23226929,8,snpp,1125,Paku,"Barito Timur","Kalimantan Tengah",Pixel
+500517,2022-09-17,12:38:57,-1.65203226,115.17932129,8,snpp,1125,"Raren Batuah","Barito Timur","Kalimantan Tengah",Pixel
+500522,2022-09-17,12:38:57,-1.23844635,115.11562347,8,snpp,1125,"Gunung Timang","Barito Utara","Kalimantan Tengah",Pixel
+500523,2022-09-17,12:38:57,-1.12213063,115.34908295,8,snpp,1125,"Gunung Timang","Barito Utara","Kalimantan Tengah",Pixel
+500524,2022-09-17,12:38:57,-1.09881294,115.34557343,8,snpp,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+500538,2022-09-17,12:38:57,-0.59203547,115.12085724,8,snpp,1125,Lahei,"Barito Utara","Kalimantan Tengah",Pixel
+500736,2022-09-17,13:30:10,-3.05736971,110.97729492,8,noaa20,1125,"Pantai Lunci",Sukamara,"Kalimantan Tengah",Pixel
+500741,2022-09-17,13:30:10,-1.81048465,115.29193878,8,noaa20,1125,"Dusun Tengah","Barito Timur","Kalimantan Tengah",Pixel
+501403,2022-09-18,12:20:02,-1.80835664,115.24018097,8,snpp,1125,"Dusun Tengah","Barito Timur","Kalimantan Tengah",Pixel
+501406,2022-09-18,12:20:02,-1.13266051,115.33971405,8,snpp,1125,"Gunung Timang","Barito Utara","Kalimantan Tengah",Pixel
+501407,2022-09-18,12:20:02,-1.09581125,115.24773407,8,snpp,1125,"Gunung Timang","Barito Utara","Kalimantan Tengah",Pixel
+501408,2022-09-18,12:20:02,-0.95876676,115.10217285,8,snpp,1125,"Teweh Baru","Barito Utara","Kalimantan Tengah",Pixel
+501409,2022-09-18,12:20:02,-0.95805109,115.10697937,8,snpp,1125,"Teweh Baru","Barito Utara","Kalimantan Tengah",Pixel
+501410,2022-09-18,12:20:02,-0.95700246,115.10466766,8,snpp,1125,"Teweh Baru","Barito Utara","Kalimantan Tengah",Pixel
+501412,2022-09-18,12:20:02,-0.89124668,115.17306519,8,snpp,1125,Lahei,"Barito Utara","Kalimantan Tengah",Pixel
+501413,2022-09-18,12:20:02,-0.85891461,115.04284668,8,snpp,1125,Lahei,"Barito Utara","Kalimantan Tengah",Pixel
+501415,2022-09-18,12:20:02,-0.65358424,114.66356659,8,snpp,1125,Murung,"Murung Raya","Kalimantan Tengah",Pixel
+501416,2022-09-18,12:20:02,-0.62961477,114.76769257,8,snpp,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+501417,2022-09-18,12:20:02,-0.6135779,114.71408081,8,snpp,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+501422,2022-09-18,12:20:02,-0.56519115,114.7452774,8,snpp,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+501423,2022-09-18,12:20:02,-0.53589481,114.85687256,8,snpp,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+501424,2022-09-18,12:20:02,-0.54789937,114.75305176,8,snpp,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+501425,2022-09-18,12:20:02,-0.54711586,114.75813293,8,snpp,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+501426,2022-09-18,12:20:02,-0.51278526,114.90341187,8,snpp,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+501427,2022-09-18,12:20:02,-0.51653206,114.87899017,8,snpp,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+501428,2022-09-18,12:20:02,-0.4592759,114.91531372,8,snpp,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+501429,2022-09-18,12:20:02,-0.4631601,114.91590118,8,snpp,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+501430,2022-09-18,12:20:02,-0.47905207,114.78346252,8,snpp,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+501438,2022-09-18,12:20:02,-0.35257477,114.67295074,8,snpp,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+501439,2022-09-18,12:20:02,-0.35574052,114.67853546,8,snpp,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+501440,2022-09-18,12:20:02,-0.34607288,114.63669586,8,snpp,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+501442,2022-09-18,12:20:02,-0.3143515,114.73839569,8,snpp,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+501443,2022-09-18,12:20:02,-0.32714844,114.6284256,8,snpp,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+501444,2022-09-18,12:20:02,-0.32638511,114.63341522,8,snpp,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+501445,2022-09-18,12:20:02,-0.32318783,114.6279068,8,snpp,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+501446,2022-09-18,12:20:02,-0.31151408,114.65155792,8,snpp,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+501447,2022-09-18,12:20:02,-0.31621936,114.64713287,8,snpp,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+501448,2022-09-18,12:20:02,-0.31227854,114.64653015,8,snpp,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+501449,2022-09-18,12:20:02,-0.30833602,114.64592743,8,snpp,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+501633,2022-09-18,13:11:13,-2.93706512,111.54851532,8,noaa20,1125,Kumai,"Waringin Barat","Kalimantan Tengah",Pixel
+501634,2022-09-18,13:11:13,-2.94091225,111.54911041,8,noaa20,1125,Kumai,"Waringin Barat","Kalimantan Tengah",Pixel
+501636,2022-09-18,13:11:13,-1.7985847,115.27030182,8,noaa20,1125,"Dusun Tengah","Barito Timur","Kalimantan Tengah",Pixel
+501637,2022-09-18,13:11:13,-1.74845815,115.26527405,8,noaa20,1125,"Dusun Tengah","Barito Timur","Kalimantan Tengah",Pixel
+501638,2022-09-18,13:11:13,-1.73857331,115.29558563,8,noaa20,1125,"Dusun Tengah","Barito Timur","Kalimantan Tengah",Pixel
+501640,2022-09-18,13:11:13,-1.2347945,114.97666168,8,noaa20,1125,"Gunung Timang","Barito Utara","Kalimantan Tengah",Pixel
+501641,2022-09-18,13:11:13,-1.1421268,115.33670807,8,noaa20,1125,"Gunung Timang","Barito Utara","Kalimantan Tengah",Pixel
+501642,2022-09-18,13:11:13,-1.14164865,115.33972168,9,noaa20,1125,"Gunung Timang","Barito Utara","Kalimantan Tengah",Pixel
+501643,2022-09-18,13:11:13,-1.13124919,115.37226105,8,noaa20,1125,"Gunung Timang","Barito Utara","Kalimantan Tengah",Pixel
+501644,2022-09-18,13:11:13,-1.0778079,115.5746994,8,noaa20,1125,Lampeong,"Barito Utara","Kalimantan Tengah",Pixel
+501645,2022-09-18,13:11:13,-1.0721848,115.03348541,9,noaa20,1125,"Teweh Baru","Barito Utara","Kalimantan Tengah",Pixel
+501646,2022-09-18,13:11:13,-1.02826858,114.95333862,8,noaa20,1125,"Teweh Baru","Barito Utara","Kalimantan Tengah",Pixel
+501647,2022-09-18,13:11:13,-1.00331151,114.94969177,8,noaa20,1125,"Teweh Baru","Barito Utara","Kalimantan Tengah",Pixel
+501648,2022-09-18,13:11:13,-1.00242126,114.95537567,8,noaa20,1125,"Teweh Baru","Barito Utara","Kalimantan Tengah",Pixel
+501649,2022-09-18,13:11:13,-0.94167221,115.07994843,8,noaa20,1125,"Teweh Baru","Barito Utara","Kalimantan Tengah",Pixel
+501652,2022-09-18,13:11:13,-0.90533847,115.15322113,8,noaa20,1125,Lahei,"Barito Utara","Kalimantan Tengah",Pixel
+501653,2022-09-18,13:11:13,-0.90425408,115.15194702,8,noaa20,1125,Lahei,"Barito Utara","Kalimantan Tengah",Pixel
+501654,2022-09-18,13:11:13,-0.90579355,115.1502533,8,noaa20,1125,Lahei,"Barito Utara","Kalimantan Tengah",Pixel
+501655,2022-09-18,13:11:13,-0.89156377,115.17530823,8,noaa20,1125,Lahei,"Barito Utara","Kalimantan Tengah",Pixel
+501661,2022-09-18,13:11:13,-0.58127195,115.19776917,8,noaa20,1125,Lahei,"Barito Utara","Kalimantan Tengah",Pixel
+501662,2022-09-18,13:11:13,-0.57926321,115.19637299,8,noaa20,1125,Lahei,"Barito Utara","Kalimantan Tengah",Pixel
+501663,2022-09-18,13:11:13,-0.59309512,115.12010956,8,noaa20,1125,Lahei,"Barito Utara","Kalimantan Tengah",Pixel
+501664,2022-09-18,13:11:13,-0.59119189,115.12194824,8,noaa20,1125,Lahei,"Barito Utara","Kalimantan Tengah",Pixel
+501665,2022-09-18,13:11:13,-0.63148111,114.768013,8,noaa20,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+501666,2022-09-18,13:11:13,-0.63225806,114.77053833,8,noaa20,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+501667,2022-09-18,13:11:13,-0.65743911,114.66429901,8,noaa20,1125,Murung,"Murung Raya","Kalimantan Tengah",Pixel
+501668,2022-09-18,13:11:13,-0.97485274,112.43906403,8,noaa20,1125,"Katinga Hulu",Katingan,"Kalimantan Tengah",Pixel
+501669,2022-09-18,13:11:13,-0.95448661,112.4319458,8,noaa20,1125,"Katinga Hulu",Katingan,"Kalimantan Tengah",Pixel
+501670,2022-09-18,13:11:13,-0.95504808,112.4006958,8,noaa20,1125,"Katinga Hulu",Katingan,"Kalimantan Tengah",Pixel
+501671,2022-09-18,13:11:13,-0.6075092,114.53379822,8,noaa20,1125,Murung,"Murung Raya","Kalimantan Tengah",Pixel
+501672,2022-09-18,13:11:13,-0.54237831,114.88211823,8,noaa20,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+501673,2022-09-18,13:11:13,-0.54651916,114.7527771,8,noaa20,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+501674,2022-09-18,13:11:13,-0.54729497,114.75497437,8,noaa20,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+501675,2022-09-18,13:11:13,-0.96905953,112.06758881,8,noaa20,1125,"Seruyan Hulu",Seruyan,"Kalimantan Tengah",Pixel
+501676,2022-09-18,13:11:13,-0.54753047,114.67954254,8,noaa20,1125,Murung,"Murung Raya","Kalimantan Tengah",Pixel
+501677,2022-09-18,13:11:13,-0.54882252,114.68204498,8,noaa20,1125,Murung,"Murung Raya","Kalimantan Tengah",Pixel
+501678,2022-09-18,13:11:13,-0.8847639,112.26615906,8,noaa20,1125,"Bukit Raya",Katingan,"Kalimantan Tengah",Pixel
+501679,2022-09-18,13:11:13,-0.5295279,114.53533173,8,noaa20,1125,"Tanah Siang","Murung Raya","Kalimantan Tengah",Pixel
+501680,2022-09-18,13:11:13,-0.53713357,114.48629761,8,noaa20,1125,"Tanah Siang","Murung Raya","Kalimantan Tengah",Pixel
+501681,2022-09-18,13:11:13,-0.46566057,114.91381073,8,noaa20,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+501682,2022-09-18,13:11:13,-0.46520904,114.91671753,9,noaa20,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+501683,2022-09-18,13:11:13,-0.46018538,114.91597748,8,noaa20,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+501684,2022-09-18,13:11:13,-0.46063867,114.91308594,8,noaa20,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+501685,2022-09-18,13:11:13,-0.52555734,114.52872467,8,noaa20,1125,"Tanah Siang","Murung Raya","Kalimantan Tengah",Pixel
+501686,2022-09-18,13:11:13,-0.53052408,114.49677277,8,noaa20,1125,"Tanah Siang","Murung Raya","Kalimantan Tengah",Pixel
+501689,2022-09-18,13:11:13,-0.86398774,112.2631073,8,noaa20,1125,"Bukit Raya",Katingan,"Kalimantan Tengah",Pixel
+501690,2022-09-18,13:11:13,-0.86814165,112.26371765,8,noaa20,1125,"Bukit Raya",Katingan,"Kalimantan Tengah",Pixel
+501691,2022-09-18,13:11:13,-0.48909828,114.48726654,8,noaa20,1125,"Tanah Siang","Murung Raya","Kalimantan Tengah",Pixel
+501692,2022-09-18,13:11:13,-0.4924728,114.48519135,8,noaa20,1125,"Tanah Siang","Murung Raya","Kalimantan Tengah",Pixel
+501693,2022-09-18,13:11:13,-0.44696912,114.63334656,8,noaa20,1125,"Tanah Siang","Murung Raya","Kalimantan Tengah",Pixel
+502467,2022-09-19,12:50:54,-0.90250707,112.26353455,8,noaa20,1125,"Bukit Raya",Katingan,"Kalimantan Tengah",Pixel
+502468,2022-09-19,12:50:54,-0.90582919,112.26403046,8,noaa20,1125,"Bukit Raya",Katingan,"Kalimantan Tengah",Pixel
+502469,2022-09-19,12:50:54,-0.89971179,112.25955963,8,noaa20,1125,"Bukit Raya",Katingan,"Kalimantan Tengah",Pixel
+502470,2022-09-19,12:50:54,-0.88363254,112.25359344,8,noaa20,1125,"Bukit Raya",Katingan,"Kalimantan Tengah",Pixel
+503526,2022-09-21,12:13:02,-1.90624261,112.09464264,8,noaa20,1125,"Seruyan Tengah",Seruyan,"Kalimantan Tengah",Pixel
+503527,2022-09-21,12:13:02,-1.85129547,111.5206604,7,noaa20,1125,"Bulik Timur",Lamandau,"Kalimantan Tengah",Pixel
+503528,2022-09-21,12:13:02,-1.85184598,111.51694489,8,noaa20,1125,"Bulik Timur",Lamandau,"Kalimantan Tengah",Pixel
+503529,2022-09-21,12:13:02,-1.84570241,111.5198822,8,noaa20,1125,"Bulik Timur",Lamandau,"Kalimantan Tengah",Pixel
+503532,2022-09-21,12:13:02,-0.91831821,112.06308746,8,noaa20,1125,"Seruyan Hulu",Seruyan,"Kalimantan Tengah",Pixel
+503636,2022-09-21,13:05:40,-1.9244231,112.12481689,8,snpp,1125,"Seruyan Tengah",Seruyan,"Kalimantan Tengah",Pixel
+503640,2022-09-21,13:05:40,-1.905743,111.68573761,8,snpp,1125,"Bulik Timur",Lamandau,"Kalimantan Tengah",Pixel
+503641,2022-09-21,13:05:40,-1.90582645,111.68857574,8,snpp,1125,"Bulik Timur",Lamandau,"Kalimantan Tengah",Pixel
+503642,2022-09-21,13:05:40,-1.85734236,111.68669891,8,snpp,1125,"Bulik Timur",Lamandau,"Kalimantan Tengah",Pixel
+503643,2022-09-21,13:05:40,-1.81350255,111.60842133,8,snpp,1125,"Bulik Timur",Lamandau,"Kalimantan Tengah",Pixel
+503644,2022-09-21,13:05:40,-1.81397212,111.60803986,8,snpp,1125,"Bulik Timur",Lamandau,"Kalimantan Tengah",Pixel
+503645,2022-09-21,13:05:40,-1.80250311,111.63214111,8,snpp,1125,"Bulik Timur",Lamandau,"Kalimantan Tengah",Pixel
+503963,2022-09-22,11:54:07,-1.02274454,115.38580322,8,noaa20,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+503964,2022-09-22,11:54:07,-1.02210486,115.39011383,8,noaa20,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+503965,2022-09-22,11:54:07,-1.01627529,115.38912201,8,noaa20,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+503966,2022-09-22,11:54:07,-1.01690161,115.38487244,8,noaa20,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+503967,2022-09-22,11:54:07,-1.01106369,115.38392639,8,noaa20,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+503968,2022-09-22,11:54:07,-1.01044226,115.38815308,8,noaa20,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+503969,2022-09-22,11:54:07,-1.01099086,115.38955688,8,noaa20,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+503970,2022-09-22,11:54:07,-1.01164365,115.38535309,8,noaa20,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+503971,2022-09-22,11:54:07,-1.01747906,115.3862915,8,noaa20,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+503972,2022-09-22,11:54:07,-1.02331984,115.38719177,8,noaa20,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+503973,2022-09-22,11:54:07,-1.02337015,115.38157654,7,noaa20,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+503974,2022-09-22,11:54:07,-1.02397847,115.38297272,8,noaa20,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+503975,2022-09-22,11:54:07,-1.02463377,115.37876892,8,noaa20,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+503976,2022-09-22,11:54:07,-0.98804909,115.30474091,8,noaa20,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+503977,2022-09-22,11:54:07,-0.99389666,115.30580902,7,noaa20,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+503978,2022-09-22,11:54:07,-0.9013297,115.40405273,8,noaa20,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+503980,2022-09-22,11:54:07,-0.8948772,115.17541504,8,noaa20,1125,Lahei,"Barito Utara","Kalimantan Tengah",Pixel
+503982,2022-09-22,11:54:07,-0.8735128,115.03501892,8,noaa20,1125,Lahei,"Barito Utara","Kalimantan Tengah",Pixel
+503983,2022-09-22,11:54:07,-0.8670907,115.01784515,8,noaa20,1125,Lahei,"Barito Utara","Kalimantan Tengah",Pixel
+503984,2022-09-22,11:54:07,-0.86949956,115.02098846,8,noaa20,1125,Lahei,"Barito Utara","Kalimantan Tengah",Pixel
+503986,2022-09-22,11:54:07,-0.51840699,114.88362885,8,noaa20,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+503987,2022-09-22,11:54:07,-0.51771408,114.88812256,8,noaa20,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+503989,2022-09-22,11:54:07,-0.3449775,114.62393188,8,noaa20,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+504182,2022-09-22,12:45:19,-3.15281796,112.93173218,8,snpp,1125,"Teluk Sampit","Waringin Timur","Kalimantan Tengah",Pixel
+504183,2022-09-22,12:45:19,-2.55866575,114.7755127,8,snpp,1125,Jenamas,"Barito Selatan","Kalimantan Tengah",Pixel
+504184,2022-09-22,12:45:19,-2.55981922,114.77613831,8,snpp,1125,Jenamas,"Barito Selatan","Kalimantan Tengah",Pixel
+504185,2022-09-22,12:45:19,-2.5547452,114.77857971,8,snpp,1125,Jenamas,"Barito Selatan","Kalimantan Tengah",Pixel
+504186,2022-09-22,12:45:19,-2.54069161,114.78012848,8,snpp,1125,Jenamas,"Barito Selatan","Kalimantan Tengah",Pixel
+504187,2022-09-22,12:45:19,-2.54014683,114.78370667,8,snpp,1125,Jenamas,"Barito Selatan","Kalimantan Tengah",Pixel
+504190,2022-09-22,12:45:19,-2.8391614,111.20079041,8,snpp,1125,"Pantai Lunci",Sukamara,"Kalimantan Tengah",Pixel
+504191,2022-09-22,12:45:19,-2.84322023,111.19747162,7,snpp,1125,"Pantai Lunci",Sukamara,"Kalimantan Tengah",Pixel
+504192,2022-09-22,12:45:19,-2.82756615,111.20688629,8,snpp,1125,"Pantai Lunci",Sukamara,"Kalimantan Tengah",Pixel
+504193,2022-09-22,12:45:19,-2.80901527,111.21195984,8,snpp,1125,"Pantai Lunci",Sukamara,"Kalimantan Tengah",Pixel
+504194,2022-09-22,12:45:19,-2.81249571,111.21247101,8,snpp,1125,"Pantai Lunci",Sukamara,"Kalimantan Tengah",Pixel
+504195,2022-09-22,12:45:19,-2.80553436,111.21144104,8,snpp,1125,"Pantai Lunci",Sukamara,"Kalimantan Tengah",Pixel
+504196,2022-09-22,12:45:19,-2.16854048,115.16542816,8,snpp,1125,"Dusun Timur","Barito Timur","Kalimantan Tengah",Pixel
+504197,2022-09-22,12:45:19,-2.13389635,115.25485229,8,snpp,1125,"Benua Lima","Barito Timur","Kalimantan Tengah",Pixel
+504202,2022-09-22,12:45:19,-1.9600848,111.9913559,8,snpp,1125,"Arut Utara","Waringin Barat","Kalimantan Tengah",Pixel
+504204,2022-09-22,12:45:19,-1.16468215,115.27602386,8,snpp,1125,"Gunung Timang","Barito Utara","Kalimantan Tengah",Pixel
+504205,2022-09-22,12:45:19,-1.72804761,111.44879913,8,snpp,1125,"Belantika Raya",Lamandau,"Kalimantan Tengah",Pixel
+504206,2022-09-22,12:45:19,-1.1154741,115.36595154,8,snpp,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+504207,2022-09-22,12:45:19,-1.13982654,115.20674133,8,snpp,1125,"Gunung Timang","Barito Utara","Kalimantan Tengah",Pixel
+504208,2022-09-22,12:45:19,-1.14211929,115.14559937,8,snpp,1125,"Gunung Timang","Barito Utara","Kalimantan Tengah",Pixel
+504209,2022-09-22,12:45:19,-1.10105145,115.3208847,8,snpp,1125,"Gunung Timang","Barito Utara","Kalimantan Tengah",Pixel
+504210,2022-09-22,12:45:19,-1.06224644,115.50318146,8,snpp,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+504211,2022-09-22,12:45:19,-1.42697775,113.09855652,8,snpp,1125,"Katingan Tengah",Katingan,"Kalimantan Tengah",Pixel
+504212,2022-09-22,12:45:19,-1.04833889,115.40261841,8,snpp,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+504213,2022-09-22,12:45:19,-1.05182612,115.40315247,8,snpp,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+504214,2022-09-22,12:45:19,-1.08331943,115.17100525,8,snpp,1125,"Teweh Baru","Barito Utara","Kalimantan Tengah",Pixel
+504215,2022-09-22,12:45:19,-1.05409253,115.31745911,8,snpp,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+504216,2022-09-22,12:45:19,-1.04077029,115.33499908,8,snpp,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+504217,2022-09-22,12:45:19,-1.01173413,115.38540649,8,snpp,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+504218,2022-09-22,12:45:19,-1.01115084,115.38921356,8,snpp,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+504219,2022-09-22,12:45:19,-1.01759589,115.32368469,8,snpp,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+504220,2022-09-22,12:45:19,-1.00421095,115.3646698,8,snpp,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+504221,2022-09-22,12:45:19,-1.00596356,115.35321808,8,snpp,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+504222,2022-09-22,12:45:19,-1.01063836,115.32269287,8,snpp,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+504223,2022-09-22,12:45:19,-0.99492913,115.35549927,8,snpp,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+504224,2022-09-22,12:45:19,-0.97939223,115.29468536,8,snpp,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+504225,2022-09-22,12:45:19,-0.98286414,115.29521942,8,snpp,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+504226,2022-09-22,12:45:19,-0.95063877,115.40372467,8,snpp,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+504227,2022-09-22,12:45:19,-0.95181334,115.40381622,8,snpp,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+504228,2022-09-22,12:45:19,-0.92791981,115.08629608,8,snpp,1125,"Teweh Baru","Barito Utara","Kalimantan Tengah",Pixel
+504229,2022-09-22,12:45:19,-1.10868144,113.88102722,8,snpp,1125,Kurun,"Gunung Mas","Kalimantan Tengah",Pixel
+504230,2022-09-22,12:45:19,-0.91987747,115.09272766,8,snpp,1125,"Teweh Baru","Barito Utara","Kalimantan Tengah",Pixel
+504231,2022-09-22,12:45:19,-1.06567371,114.02845001,8,snpp,1125,"Kapuas Hulu",Kapuas,"Kalimantan Tengah",Pixel
+504238,2022-09-22,12:45:19,-0.87407303,115.0326004,8,snpp,1125,Lahei,"Barito Utara","Kalimantan Tengah",Pixel
+504239,2022-09-22,12:45:19,-0.87350744,115.03632355,8,snpp,1125,Lahei,"Barito Utara","Kalimantan Tengah",Pixel
+504240,2022-09-22,12:45:19,-0.86544609,115.01983643,8,snpp,1125,Lahei,"Barito Utara","Kalimantan Tengah",Pixel
+504242,2022-09-22,12:45:19,-1.17865837,112.64298248,8,snpp,1125,Marikit,Katingan,"Kalimantan Tengah",Pixel
+504243,2022-09-22,12:45:19,-1.15766561,112.64691925,8,snpp,1125,Marikit,Katingan,"Kalimantan Tengah",Pixel
+504244,2022-09-22,12:45:19,-1.15714252,112.65036774,8,snpp,1125,Marikit,Katingan,"Kalimantan Tengah",Pixel
+504245,2022-09-22,12:45:19,-0.75708514,115.16079712,8,snpp,1125,Lahei,"Barito Utara","Kalimantan Tengah",Pixel
+504247,2022-09-22,12:45:19,-0.85037535,113.89776611,8,snpp,1125,"Kapuas Hulu",Kapuas,"Kalimantan Tengah",Pixel
+504251,2022-09-22,12:45:19,-0.59164363,115.12023163,8,snpp,1125,Lahei,"Barito Utara","Kalimantan Tengah",Pixel
+504252,2022-09-22,12:45:19,-0.5282594,114.91896057,8,snpp,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+504253,2022-09-22,12:45:19,-0.53106487,114.87760925,8,snpp,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+504254,2022-09-22,12:45:19,-0.52138764,114.91790771,8,snpp,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+504255,2022-09-22,12:45:19,-0.51451427,114.91687012,8,snpp,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+504256,2022-09-22,12:45:19,-0.5076406,114.91581726,8,snpp,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+504257,2022-09-22,12:45:19,-0.50762504,114.893013,8,snpp,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+504258,2022-09-22,12:45:19,-0.57871038,114.40698242,8,snpp,1125,"Tanah Siang","Murung Raya","Kalimantan Tengah",Pixel
+504259,2022-09-22,12:45:19,-0.56981987,114.44241333,8,snpp,1125,"Tanah Siang","Murung Raya","Kalimantan Tengah",Pixel
+504268,2022-09-22,12:45:19,-0.44391125,114.62752533,8,snpp,1125,"Tanah Siang","Murung Raya","Kalimantan Tengah",Pixel
+504269,2022-09-22,12:45:19,-0.44731972,114.62802887,8,snpp,1125,"Tanah Siang","Murung Raya","Kalimantan Tengah",Pixel
+504270,2022-09-22,12:45:19,-0.43203762,114.65947723,8,snpp,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+504271,2022-09-22,12:45:19,-0.43312317,114.62969971,8,snpp,1125,"Tanah Siang","Murung Raya","Kalimantan Tengah",Pixel
+504273,2022-09-22,12:45:19,-0.41413671,114.61527252,8,snpp,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+504274,2022-09-22,12:45:19,-0.4175413,114.61579132,8,snpp,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+504275,2022-09-22,12:45:19,-0.41468674,114.61162567,8,snpp,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+504277,2022-09-22,12:45:19,-0.40788269,114.61054993,8,snpp,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+504279,2022-09-22,12:45:19,-0.442128,114.15600586,8,snpp,1125,"Sumber Barito","Murung Raya","Kalimantan Tengah",Pixel
+504282,2022-09-22,12:45:19,-0.73089063,112.09608459,7,snpp,1125,"Seruyan Hulu",Seruyan,"Kalimantan Tengah",Pixel
+504284,2022-09-22,12:45:19,-0.31901926,114.50706482,8,snpp,1125,"Tanah Siang","Murung Raya","Kalimantan Tengah",Pixel
+504285,2022-09-22,12:45:19,-0.3116743,114.50968933,8,snpp,1125,"Tanah Siang","Murung Raya","Kalimantan Tengah",Pixel
+504289,2022-09-22,12:45:19,-0.29722106,114.444664,8,snpp,1125,"Tanah Siang","Murung Raya","Kalimantan Tengah",Pixel
+504343,2022-09-22,12:45:19,0.09751397,113.90188599,8,snpp,1125,"Seribu Riam","Murung Raya","Kalimantan Tengah",Pixel
+504479,2022-09-22,13:36:33,-2.835325,111.19985962,9,noaa20,1125,"Pantai Lunci",Sukamara,"Kalimantan Tengah",Pixel
+504480,2022-09-22,13:36:33,-2.84109592,111.20074463,8,noaa20,1125,"Pantai Lunci",Sukamara,"Kalimantan Tengah",Pixel
+504481,2022-09-22,13:36:33,-2.83599281,111.19585419,8,noaa20,1125,"Pantai Lunci",Sukamara,"Kalimantan Tengah",Pixel
+504498,2022-09-22,13:36:33,-1.99625528,112.00410461,8,noaa20,1125,"Arut Utara","Waringin Barat","Kalimantan Tengah",Pixel
+504499,2022-09-22,13:36:33,-1.94442654,112.08879089,8,noaa20,1125,"Seruyan Tengah",Seruyan,"Kalimantan Tengah",Pixel
+504500,2022-09-22,13:36:33,-1.93126118,112.09163666,8,noaa20,1125,"Seruyan Tengah",Seruyan,"Kalimantan Tengah",Pixel
+504501,2022-09-22,13:36:33,-1.9304558,112.09648895,8,noaa20,1125,"Seruyan Tengah",Seruyan,"Kalimantan Tengah",Pixel
+504682,2022-09-23,00:36:34,-1.2915566,114.75479889,8,noaa20,1125,Montallat,"Barito Utara","Kalimantan Tengah",Pixel
+505192,2022-09-23,12:26:24,-1.15732908,115.23767853,8,snpp,1125,"Gunung Timang","Barito Utara","Kalimantan Tengah",Pixel
+505195,2022-09-23,12:26:24,-0.97791809,115.37503815,8,snpp,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+505196,2022-09-23,12:26:24,-0.98142463,115.37554169,8,snpp,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+505197,2022-09-23,12:26:24,-1.03068292,115.00756073,8,snpp,1125,"Teweh Baru","Barito Utara","Kalimantan Tengah",Pixel
+505198,2022-09-23,12:26:24,-0.90200281,115.11999512,8,snpp,1125,Lahei,"Barito Utara","Kalimantan Tengah",Pixel
+505201,2022-09-23,12:26:24,-0.68800372,114.8674469,7,snpp,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+505203,2022-09-23,12:26:24,-0.55420774,115.20159149,8,snpp,1125,Lahei,"Barito Utara","Kalimantan Tengah",Pixel
+505206,2022-09-23,12:26:24,-0.52122891,114.89266205,8,snpp,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+505207,2022-09-23,12:26:24,-0.52062833,114.89669037,8,snpp,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+505208,2022-09-23,12:26:24,-0.5226559,114.89390564,8,snpp,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+505209,2022-09-23,12:26:24,-0.50947863,114.90840912,7,snpp,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+505210,2022-09-23,12:26:24,-0.43697318,114.93035126,7,snpp,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+505212,2022-09-23,12:26:24,-0.43102023,114.71484375,7,snpp,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+505213,2022-09-23,12:26:24,-0.43986863,114.65750122,7,snpp,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+505214,2022-09-23,12:26:24,-0.43489549,114.59385681,8,snpp,1125,"Tanah Siang","Murung Raya","Kalimantan Tengah",Pixel
+505216,2022-09-23,12:26:24,-0.31858024,114.74421692,8,snpp,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+505380,2022-09-23,13:17:38,-2.09823799,115.30434418,8,noaa20,1125,"Patang Kepulau Tutui","Barito Timur","Kalimantan Tengah",Pixel
+505381,2022-09-23,13:17:38,-1.90425205,114.36419678,8,noaa20,1125,Mantangai,Kapuas,"Kalimantan Tengah",Pixel
+505382,2022-09-23,13:17:38,-1.90373874,114.36743164,8,noaa20,1125,Mantangai,Kapuas,"Kalimantan Tengah",Pixel
+505383,2022-09-23,13:17:38,-1.89320016,114.36580658,8,noaa20,1125,Mantangai,Kapuas,"Kalimantan Tengah",Pixel
+505384,2022-09-23,13:17:38,-1.13147044,115.56303406,8,noaa20,1125,Lampeong,"Barito Utara","Kalimantan Tengah",Pixel
+505385,2022-09-23,13:17:38,-1.13087559,115.56673431,8,noaa20,1125,Lampeong,"Barito Utara","Kalimantan Tengah",Pixel
+505386,2022-09-23,13:17:38,-1.11823428,115.39044189,8,noaa20,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+505387,2022-09-23,13:17:38,-1.11760008,115.39432526,8,noaa20,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+505388,2022-09-23,13:17:38,-1.11645687,115.38991547,8,noaa20,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+505389,2022-09-23,13:17:38,-1.11585033,115.39380646,7,noaa20,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+505390,2022-09-23,13:17:38,-1.01224029,115.38288879,8,noaa20,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+505391,2022-09-23,13:17:38,-1.01160967,115.3867569,8,noaa20,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+505392,2022-09-23,13:17:38,-1.01053309,115.38269806,8,noaa20,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+505393,2022-09-23,13:17:38,-0.96042889,115.22048187,8,noaa20,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+505394,2022-09-23,13:17:38,-0.98510069,115.03108215,8,noaa20,1125,"Teweh Baru","Barito Utara","Kalimantan Tengah",Pixel
+505395,2022-09-23,13:17:38,-0.92142391,115.08188629,8,noaa20,1125,"Teweh Baru","Barito Utara","Kalimantan Tengah",Pixel
+505397,2022-09-23,13:17:38,-0.84510398,114.77694702,8,noaa20,1125,"Lahei Barat","Barito Utara","Kalimantan Tengah",Pixel
+505404,2022-09-23,13:17:38,-0.58368176,114.64710236,7,noaa20,1125,Murung,"Murung Raya","Kalimantan Tengah",Pixel
+505405,2022-09-23,13:17:38,-0.58425051,114.64359283,8,noaa20,1125,Murung,"Murung Raya","Kalimantan Tengah",Pixel
+505407,2022-09-23,13:17:38,-0.75916177,112.09820557,8,noaa20,1125,"Seruyan Hulu",Seruyan,"Kalimantan Tengah",Pixel
+505408,2022-09-23,13:17:38,-0.76377487,112.09873962,8,noaa20,1125,"Seruyan Hulu",Seruyan,"Kalimantan Tengah",Pixel
+505409,2022-09-23,13:17:38,-0.33505189,114.79164124,8,noaa20,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+505410,2022-09-23,13:17:38,-0.33449864,114.79521942,8,noaa20,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+506191,2022-09-25,10:11:00,-2.6849710941314697,111.63750457763672,7,terra,3000,"Arut Selatan","Waringin Barat","Kalimantan Tengah",Pixel
+506399,2022-09-25,11:50:00,-0.64763606,114.7589798,8,snpp,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+506680,2022-09-25,12:38:22,-3.0354898,112.50939941,8,noaa20,1125,"Seruyan Hilir",Seruyan,"Kalimantan Tengah",Pixel
+506696,2022-09-25,12:38:22,-1.68507111,111.14574432,8,noaa20,1125,Delang,Lamandau,"Kalimantan Tengah",Pixel
+506697,2022-09-25,12:38:22,-1.47665823,111.14081573,8,noaa20,1125,"Batang Kawa",Lamandau,"Kalimantan Tengah",Pixel
+506708,2022-09-25,12:38:22,-0.68143743,114.82022095,8,noaa20,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+506804,2022-09-25,13:30:58,-1.62780452,110.90765381,8,snpp,1125,Delang,Lamandau,"Kalimantan Tengah",Pixel
+507850,2022-09-26,13:12:04,-1.87395263,115.2831955,8,snpp,1125,Paku,"Barito Timur","Kalimantan Tengah",Pixel
+507851,2022-09-26,13:12:04,-1.73857832,115.26212311,8,snpp,1125,"Dusun Tengah","Barito Timur","Kalimantan Tengah",Pixel
+507855,2022-09-26,13:12:04,-1.12631106,115.56815338,8,snpp,1125,Lampeong,"Barito Utara","Kalimantan Tengah",Pixel
+508391,2022-09-27,12:00:30,-2.36330009,114.75564575,8,noaa20,1125,"Dusun Hilir","Barito Selatan","Kalimantan Tengah",Pixel
+508399,2022-09-27,12:00:30,-2.17511058,115.27125549,8,noaa20,1125,"Benua Lima","Barito Timur","Kalimantan Tengah",Pixel
+508400,2022-09-27,12:00:30,-2.17461658,115.27462006,8,noaa20,1125,"Benua Lima","Barito Timur","Kalimantan Tengah",Pixel
+508404,2022-09-27,12:00:30,-2.09953928,115.28113556,8,noaa20,1125,"Patang Kepulau Tutui","Barito Timur","Kalimantan Tengah",Pixel
+508405,2022-09-27,12:00:30,-2.10493088,115.2818985,8,noaa20,1125,"Patang Kepulau Tutui","Barito Timur","Kalimantan Tengah",Pixel
+508406,2022-09-27,12:00:30,-2.2737484,113.86672974,8,noaa20,1125,Sabangau,Palangkaraya,"Kalimantan Tengah",Pixel
+508411,2022-09-27,12:00:30,-1.703192,115.28303528,8,noaa20,1125,"Dusun Tengah","Barito Timur","Kalimantan Tengah",Pixel
+508412,2022-09-27,12:00:30,-1.70267749,115.28639221,8,noaa20,1125,"Dusun Tengah","Barito Timur","Kalimantan Tengah",Pixel
+508416,2022-09-27,12:00:30,-2.06498289,111.93856812,8,noaa20,1125,"Arut Utara","Waringin Barat","Kalimantan Tengah",Pixel
+508417,2022-09-27,12:00:30,-1.51631677,115.19272614,8,noaa20,1125,"Gn. Bintang Awai","Barito Selatan","Kalimantan Tengah",Pixel
+508418,2022-09-27,12:00:30,-1.49221182,115.22345734,8,noaa20,1125,"Gn. Bintang Awai","Barito Selatan","Kalimantan Tengah",Pixel
+508419,2022-09-27,12:00:30,-1.48150718,115.22183228,8,noaa20,1125,"Gn. Bintang Awai","Barito Selatan","Kalimantan Tengah",Pixel
+508421,2022-09-27,12:00:30,-1.41474295,115.22919464,8,noaa20,1125,"Gn. Bintang Awai","Barito Selatan","Kalimantan Tengah",Pixel
+508422,2022-09-27,12:00:30,-1.41424572,115.2325592,8,noaa20,1125,"Gn. Bintang Awai","Barito Selatan","Kalimantan Tengah",Pixel
+508423,2022-09-27,12:00:30,-1.50034583,114.61893463,8,noaa20,1125,Timpah,Kapuas,"Kalimantan Tengah",Pixel
+508424,2022-09-27,12:00:30,-1.50469589,114.61938477,8,noaa20,1125,Timpah,Kapuas,"Kalimantan Tengah",Pixel
+508425,2022-09-27,12:00:30,-1.38117719,115.24773407,8,noaa20,1125,"Gn. Bintang Awai","Barito Selatan","Kalimantan Tengah",Pixel
+508426,2022-09-27,12:00:30,-1.32713699,115.28061676,8,noaa20,1125,"Gunung Timang","Barito Utara","Kalimantan Tengah",Pixel
+508427,2022-09-27,12:00:30,-1.28847063,115.22369385,8,noaa20,1125,"Gunung Timang","Barito Utara","Kalimantan Tengah",Pixel
+508428,2022-09-27,12:00:30,-1.28653228,115.2236557,8,noaa20,1125,"Gunung Timang","Barito Utara","Kalimantan Tengah",Pixel
+508429,2022-09-27,12:00:30,-1.60187602,113.2311554,8,noaa20,1125,"Pulau Malam",Katingan,"Kalimantan Tengah",Pixel
+508430,2022-09-27,12:00:30,-1.53197992,112.91065216,8,noaa20,1125,"Katingan Tengah",Katingan,"Kalimantan Tengah",Pixel
+508431,2022-09-27,12:00:30,-1.53650248,112.911026,8,noaa20,1125,"Katingan Tengah",Katingan,"Kalimantan Tengah",Pixel
+508432,2022-09-27,12:00:30,-1.14080656,115.34450531,8,noaa20,1125,"Gunung Timang","Barito Utara","Kalimantan Tengah",Pixel
+508440,2022-09-27,12:00:30,-1.01910472,115.3321991,8,noaa20,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+508441,2022-09-27,12:00:30,-1.25541842,113.32058716,8,noaa20,1125,"Mahuning Raya","Gunung Mas","Kalimantan Tengah",Pixel
+508442,2022-09-27,12:00:30,-1.25722539,113.3188858,8,noaa20,1125,"Mahuning Raya","Gunung Mas","Kalimantan Tengah",Pixel
+508444,2022-09-27,12:00:30,-1.13029623,113.82027435,8,noaa20,1125,Kurun,"Gunung Mas","Kalimantan Tengah",Pixel
+508453,2022-09-27,12:00:30,-0.70143914,114.86867523,7,noaa20,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+508454,2022-09-27,12:00:30,-0.70196784,114.86510468,8,noaa20,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+508455,2022-09-27,12:00:30,-0.70039088,114.86312866,8,noaa20,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+508456,2022-09-27,12:00:30,-0.69983488,114.86667633,7,noaa20,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+508464,2022-09-27,12:00:30,-0.53681284,114.57314301,8,noaa20,1125,"Tanah Siang","Murung Raya","Kalimantan Tengah",Pixel
+508807,2022-09-27,12:51:43,-3.26892543,112.82514954,8,snpp,1125,"Teluk Sampit","Waringin Timur","Kalimantan Tengah",Pixel
+508846,2022-09-27,12:51:43,-2.36173153,114.75540161,8,snpp,1125,"Dusun Hilir","Barito Selatan","Kalimantan Tengah",Pixel
+508850,2022-09-27,12:51:43,-2.19501138,115.25968933,8,snpp,1125,"Benua Lima","Barito Timur","Kalimantan Tengah",Pixel
+508855,2022-09-27,12:51:43,-2.14939499,115.21298218,8,snpp,1125,"Dusun Timur","Barito Timur","Kalimantan Tengah",Pixel
+508856,2022-09-27,12:51:43,-2.11408496,115.27952576,8,snpp,1125,"Benua Lima","Barito Timur","Kalimantan Tengah",Pixel
+508857,2022-09-27,12:51:43,-2.58364296,112.15848541,8,snpp,1125,Hanau,Seruyan,"Kalimantan Tengah",Pixel
+508858,2022-09-27,12:51:43,-2.09625649,115.27229309,8,snpp,1125,"Patang Kepulau Tutui","Barito Timur","Kalimantan Tengah",Pixel
+508859,2022-09-27,12:51:43,-2.0858705,115.31549072,8,snpp,1125,"Patang Kepulau Tutui","Barito Timur","Kalimantan Tengah",Pixel
+508860,2022-09-27,12:51:43,-2.08304405,115.18605804,8,snpp,1125,"Dusun Timur","Barito Timur","Kalimantan Tengah",Pixel
+508861,2022-09-27,12:51:43,-2.27180028,113.86506653,8,snpp,1125,Sabangau,Palangkaraya,"Kalimantan Tengah",Pixel
+508862,2022-09-27,12:51:43,-2.27122164,113.86882782,8,snpp,1125,Sabangau,Palangkaraya,"Kalimantan Tengah",Pixel
+508866,2022-09-27,12:51:43,-1.9285295,115.29224396,8,snpp,1125,Awang,"Barito Timur","Kalimantan Tengah",Pixel
+508867,2022-09-27,12:51:43,-1.87579668,115.27709198,8,snpp,1125,Paku,"Barito Timur","Kalimantan Tengah",Pixel
+508868,2022-09-27,12:51:43,-1.8777951,115.26399231,8,snpp,1125,Paku,"Barito Timur","Kalimantan Tengah",Pixel
+508875,2022-09-27,12:51:43,-1.76829064,115.00521088,8,snpp,1125,"Pematang Karau","Barito Timur","Kalimantan Tengah",Pixel
+508876,2022-09-27,12:51:43,-1.85897577,114.3475647,8,snpp,1125,Mantangai,Kapuas,"Kalimantan Tengah",Pixel
+508877,2022-09-27,12:51:43,-1.85836422,114.35151672,8,snpp,1125,Mantangai,Kapuas,"Kalimantan Tengah",Pixel
+508879,2022-09-27,12:51:43,-2.15620208,112.16662598,8,snpp,1125,"Seruyan Tengah",Seruyan,"Kalimantan Tengah",Pixel
+508880,2022-09-27,12:51:43,-1.67742443,115.1373291,8,snpp,1125,"Raren Batuah","Barito Timur","Kalimantan Tengah",Pixel
+508881,2022-09-27,12:51:43,-1.65733206,115.16981506,8,snpp,1125,"Raren Batuah","Barito Timur","Kalimantan Tengah",Pixel
+508883,2022-09-27,12:51:43,-1.57277501,115.16673279,8,snpp,1125,"Gn. Bintang Awai","Barito Selatan","Kalimantan Tengah",Pixel
+508884,2022-09-27,12:51:43,-1.52937448,115.22714996,8,snpp,1125,"Gn. Bintang Awai","Barito Selatan","Kalimantan Tengah",Pixel
+508885,2022-09-27,12:51:43,-1.52869809,115.23153687,8,snpp,1125,"Gn. Bintang Awai","Barito Selatan","Kalimantan Tengah",Pixel
+508890,2022-09-27,12:51:43,-1.48711038,115.22984314,8,snpp,1125,"Gn. Bintang Awai","Barito Selatan","Kalimantan Tengah",Pixel
+508891,2022-09-27,12:51:43,-1.47409129,115.2297821,8,snpp,1125,"Gn. Bintang Awai","Barito Selatan","Kalimantan Tengah",Pixel
+508892,2022-09-27,12:51:43,-1.47594655,115.22821808,8,snpp,1125,"Gn. Bintang Awai","Barito Selatan","Kalimantan Tengah",Pixel
+508893,2022-09-27,12:51:43,-1.94023752,112.10062408,8,snpp,1125,"Seruyan Tengah",Seruyan,"Kalimantan Tengah",Pixel
+508895,2022-09-27,12:51:43,-1.89930761,112.10157013,8,snpp,1125,"Seruyan Tengah",Seruyan,"Kalimantan Tengah",Pixel
+508898,2022-09-27,12:51:43,-1.33618844,115.27773285,8,snpp,1125,"Gunung Timang","Barito Utara","Kalimantan Tengah",Pixel
+508899,2022-09-27,12:51:43,-1.39879441,114.86594391,8,snpp,1125,"Dusun Utara","Barito Selatan","Kalimantan Tengah",Pixel
+508900,2022-09-27,12:51:43,-1.53587282,113.86990356,8,snpp,1125,"Sepang Simin","Gunung Mas","Kalimantan Tengah",Pixel
+508902,2022-09-27,12:51:43,-1.26535654,114.93349457,8,snpp,1125,Montallat,"Barito Utara","Kalimantan Tengah",Pixel
+508903,2022-09-27,12:51:43,-1.21738887,115.19756317,8,snpp,1125,"Gunung Timang","Barito Utara","Kalimantan Tengah",Pixel
+508904,2022-09-27,12:51:43,-1.11643708,115.67662811,8,snpp,1125,Lampeong,"Barito Utara","Kalimantan Tengah",Pixel
+508905,2022-09-27,12:51:43,-1.35680497,113.88983917,8,snpp,1125,"Mihing Raya","Gunung Mas","Kalimantan Tengah",Pixel
+508908,2022-09-27,12:51:43,-1.46222675,112.95619965,8,snpp,1125,"Katingan Tengah",Katingan,"Kalimantan Tengah",Pixel
+508910,2022-09-27,12:51:43,-1.06821501,115.31729126,8,snpp,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+508911,2022-09-27,12:51:43,-1.40415215,113.08733368,8,snpp,1125,"Sanaman Mantikei",Katingan,"Kalimantan Tengah",Pixel
+508912,2022-09-27,12:51:43,-1.40754259,113.08784485,8,snpp,1125,"Sanaman Mantikei",Katingan,"Kalimantan Tengah",Pixel
+508913,2022-09-27,12:51:43,-1.04871738,115.31903076,8,snpp,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+508914,2022-09-27,12:51:43,-1.01146209,115.43559265,8,snpp,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+508916,2022-09-27,12:51:43,-0.97397101,115.40209961,8,snpp,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+508917,2022-09-27,12:51:43,-1.09045625,114.61539459,8,snpp,1125,"Teweh Tengah","Barito Utara","Kalimantan Tengah",Pixel
+508918,2022-09-27,12:51:43,-1.01803744,114.99023438,8,snpp,1125,"Teweh Baru","Barito Utara","Kalimantan Tengah",Pixel
+508920,2022-09-27,12:51:43,-0.93853629,115.40604401,8,snpp,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+508922,2022-09-27,12:51:43,-0.9333362,115.41461182,8,snpp,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+508926,2022-09-27,12:51:43,-1.20687985,113.37465668,8,snpp,1125,"Mahuning Raya","Gunung Mas","Kalimantan Tengah",Pixel
+508929,2022-09-27,12:51:43,-1.12887418,113.82042694,8,snpp,1125,Kurun,"Gunung Mas","Kalimantan Tengah",Pixel
+508930,2022-09-27,12:51:43,-0.90477788,115.09986115,8,snpp,1125,Lahei,"Barito Utara","Kalimantan Tengah",Pixel
+508933,2022-09-27,12:51:43,-0.91862386,114.86226654,8,snpp,1125,"Teweh Tengah","Barito Utara","Kalimantan Tengah",Pixel
+508936,2022-09-27,12:51:43,-0.98037332,113.94393158,8,snpp,1125,"Kapuas Hulu",Kapuas,"Kalimantan Tengah",Pixel
+508937,2022-09-27,12:51:43,-0.83211672,114.86751556,8,snpp,1125,Lahei,"Barito Utara","Kalimantan Tengah",Pixel
+508940,2022-09-27,12:51:43,-0.80231255,114.79302216,8,snpp,1125,"Lahei Barat","Barito Utara","Kalimantan Tengah",Pixel
+508941,2022-09-27,12:51:43,-0.73840523,114.97354126,8,snpp,1125,"Lahei Barat","Barito Utara","Kalimantan Tengah",Pixel
+508942,2022-09-27,12:51:43,-0.73202586,114.86636353,8,snpp,1125,"Lahei Barat","Barito Utara","Kalimantan Tengah",Pixel
+508944,2022-09-27,12:51:43,-0.79933804,114.2807312,8,snpp,1125,"Permata Intan","Murung Raya","Kalimantan Tengah",Pixel
+508946,2022-09-27,12:51:43,-0.69825441,114.86563873,8,snpp,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+508947,2022-09-27,12:51:43,-0.69053221,114.84256744,8,snpp,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+508948,2022-09-27,12:51:43,-0.65304047,114.88974762,8,snpp,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+508949,2022-09-27,12:51:43,-0.65672809,114.89029694,8,snpp,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+508950,2022-09-27,12:51:43,-0.65409422,114.89079285,8,snpp,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+508951,2022-09-27,12:51:43,-0.65040731,114.89022827,8,snpp,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+508952,2022-09-27,12:51:43,-0.68656528,114.72455597,8,snpp,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+508953,2022-09-27,12:51:43,-0.64867318,114.87670898,8,snpp,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+508954,2022-09-27,12:51:43,-0.65235561,114.87729645,8,snpp,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+508955,2022-09-27,12:51:43,-0.64267033,114.79213715,8,snpp,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+508958,2022-09-27,12:51:43,-0.58287567,114.4276886,8,snpp,1125,"Tanah Siang","Murung Raya","Kalimantan Tengah",Pixel
+508963,2022-09-27,12:51:43,-0.45598918,114.88899994,8,snpp,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+508964,2022-09-27,12:51:43,-0.42640415,114.8944397,8,snpp,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+508965,2022-09-27,12:51:43,-0.43009883,114.89503479,8,snpp,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+508969,2022-09-27,12:51:43,-0.29104587,114.48297119,8,snpp,1125,"Tanah Siang","Murung Raya","Kalimantan Tengah",Pixel
+508970,2022-09-27,12:51:43,-0.29186296,114.4824295,8,snpp,1125,"Tanah Siang","Murung Raya","Kalimantan Tengah",Pixel
+509045,2022-09-27,13:42:55,-3.26451635,112.82042694,8,noaa20,1125,"Teluk Sampit","Waringin Timur","Kalimantan Tengah",Pixel
+509167,2022-09-28,00:42:57,-1.28953803,114.76943207,8,noaa20,1125,Montallat,"Barito Utara","Kalimantan Tengah",Pixel
+509168,2022-09-28,00:42:57,-1.29066133,114.75467682,8,noaa20,1125,Montallat,"Barito Utara","Kalimantan Tengah",Pixel
+509169,2022-09-28,00:42:57,-1.29177642,114.76177979,8,noaa20,1125,Montallat,"Barito Utara","Kalimantan Tengah",Pixel
+509180,2022-09-28,00:42:57,-3.02262187,113.75514221,8,noaa20,1125,"Kahayan Kuala",Pulangpisau,"Kalimantan Tengah",Pixel
+509185,2022-09-28,00:42:57,-3.15112305,113.6431427,8,noaa20,1125,"Kahayan Kuala",Pulangpisau,"Kalimantan Tengah",Pixel
+509690,2022-09-28,12:32:48,-2.34361887,114.75518036,7,snpp,1125,"Dusun Hilir","Barito Selatan","Kalimantan Tengah",Pixel
+509691,2022-09-28,12:32:48,-2.34703922,114.75569153,7,snpp,1125,"Dusun Hilir","Barito Selatan","Kalimantan Tengah",Pixel
+509697,2022-09-28,12:32:48,-2.16162729,115.22735596,7,snpp,1125,"Dusun Timur","Barito Timur","Kalimantan Tengah",Pixel
+509702,2022-09-28,12:32:48,-2.03487515,115.15988922,8,snpp,1125,Awang,"Barito Timur","Kalimantan Tengah",Pixel
+509703,2022-09-28,12:32:48,-1.98349059,115.20328522,8,snpp,1125,Awang,"Barito Timur","Kalimantan Tengah",Pixel
+509710,2022-09-28,12:32:48,-2.32922411,112.64209747,8,snpp,1125,Telawang,"Waringin Timur","Kalimantan Tengah",Pixel
+509711,2022-09-28,12:32:48,-2.32889557,112.64432526,7,snpp,1125,Telawang,"Waringin Timur","Kalimantan Tengah",Pixel
+509714,2022-09-28,12:32:48,-2.41764569,111.32830048,8,snpp,1125,"Kotawaringin Lama","Waringin Barat","Kalimantan Tengah",Pixel
+509720,2022-09-28,12:32:48,-2.20795894,111.08079529,8,snpp,1125,"Permata Kecubung",Sukamara,"Kalimantan Tengah",Pixel
+509722,2022-09-28,12:32:48,-1.96953845,112.0187912,8,snpp,1125,"Arut Utara","Waringin Barat","Kalimantan Tengah",Pixel
+509723,2022-09-28,12:32:48,-1.93195319,112.08282471,8,snpp,1125,"Seruyan Tengah",Seruyan,"Kalimantan Tengah",Pixel
+509724,2022-09-28,12:32:48,-1.92369103,112.03195953,8,snpp,1125,"Seruyan Tengah",Seruyan,"Kalimantan Tengah",Pixel
+509725,2022-09-28,12:32:48,-1.86358488,112.05998993,8,snpp,1125,"Seruyan Tengah",Seruyan,"Kalimantan Tengah",Pixel
+509726,2022-09-28,12:32:48,-1.90190053,111.73071289,8,snpp,1125,"Menthobi Raya",Lamandau,"Kalimantan Tengah",Pixel
+509728,2022-09-28,12:32:48,-1.8770355,111.59853363,8,snpp,1125,"Bulik Timur",Lamandau,"Kalimantan Tengah",Pixel
+509742,2022-09-28,12:32:48,-1.15769696,115.59117126,8,snpp,1125,Lampeong,"Barito Utara","Kalimantan Tengah",Pixel
+509743,2022-09-28,12:32:48,-1.135252,115.69451141,8,snpp,1125,Lampeong,"Barito Utara","Kalimantan Tengah",Pixel
+509745,2022-09-28,12:32:48,-1.19867527,115.20664215,7,snpp,1125,"Gunung Timang","Barito Utara","Kalimantan Tengah",Pixel
+509746,2022-09-28,12:32:48,-1.63616538,112.27668762,7,snpp,1125,"Bukit Santuai","Waringin Timur","Kalimantan Tengah",Pixel
+509748,2022-09-28,12:32:48,-1.80640018,111.08314514,8,snpp,1125,Lamadau,Lamandau,"Kalimantan Tengah",Pixel
+509749,2022-09-28,12:32:48,-1.80440474,111.07949066,8,snpp,1125,Lamadau,Lamandau,"Kalimantan Tengah",Pixel
+509750,2022-09-28,12:32:48,-1.80697203,111.07944489,8,snpp,1125,Lamadau,Lamandau,"Kalimantan Tengah",Pixel
+509773,2022-09-28,12:32:48,-1.40088952,112.93908691,8,snpp,1125,"Katingan Tengah",Katingan,"Kalimantan Tengah",Pixel
+509779,2022-09-28,12:32:48,-1.61092567,111.04689026,8,snpp,1125,Delang,Lamandau,"Kalimantan Tengah",Pixel
+509781,2022-09-28,12:32:48,-1.55581093,111.33498383,8,snpp,1125,"Belantika Raya",Lamandau,"Kalimantan Tengah",Pixel
+509782,2022-09-28,12:32:48,-1.60991669,110.9597168,8,snpp,1125,Delang,Lamandau,"Kalimantan Tengah",Pixel
+509783,2022-09-28,12:32:48,-1.60642564,110.96247101,8,snpp,1125,Delang,Lamandau,"Kalimantan Tengah",Pixel
+509784,2022-09-28,12:32:48,-1.60516763,110.96292877,8,snpp,1125,Delang,Lamandau,"Kalimantan Tengah",Pixel
+509785,2022-09-28,12:32:48,-1.60558224,110.93264771,8,snpp,1125,Delang,Lamandau,"Kalimantan Tengah",Pixel
+509786,2022-09-28,12:32:48,-1.60662329,110.93215179,8,snpp,1125,Delang,Lamandau,"Kalimantan Tengah",Pixel
+509787,2022-09-28,12:32:48,-1.57672167,111.06517029,8,snpp,1125,Delang,Lamandau,"Kalimantan Tengah",Pixel
+509794,2022-09-28,12:32:48,-0.89454114,115.3681488,8,snpp,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+509795,2022-09-28,12:32:48,-0.89788181,115.36865997,8,snpp,1125,"Teweh Timur","Barito Utara","Kalimantan Tengah",Pixel
+509801,2022-09-28,12:32:48,-1.51132464,111.1636734,8,snpp,1125,"Batang Kawa",Lamandau,"Kalimantan Tengah",Pixel
+509805,2022-09-28,12:32:48,-0.94739449,114.8147583,7,snpp,1125,"Teweh Tengah","Barito Utara","Kalimantan Tengah",Pixel
+509806,2022-09-28,12:32:48,-1.4981606,111.13961029,8,snpp,1125,"Batang Kawa",Lamandau,"Kalimantan Tengah",Pixel
+509807,2022-09-28,12:32:48,-1.49763763,111.14311218,8,snpp,1125,"Batang Kawa",Lamandau,"Kalimantan Tengah",Pixel
+509808,2022-09-28,12:32:48,-1.49353707,111.1424942,8,snpp,1125,"Batang Kawa",Lamandau,"Kalimantan Tengah",Pixel
+509809,2022-09-28,12:32:48,-1.49246144,111.1497345,8,snpp,1125,"Batang Kawa",Lamandau,"Kalimantan Tengah",Pixel
+509810,2022-09-28,12:32:48,-0.99190229,114.45001984,8,snpp,1125,"Kapuas Tengah",Kapuas,"Kalimantan Tengah",Pixel
+509811,2022-09-28,12:32:48,-1.48425603,111.1485672,8,snpp,1125,"Batang Kawa",Lamandau,"Kalimantan Tengah",Pixel
+509812,2022-09-28,12:32:48,-1.48372066,111.15218353,8,snpp,1125,"Batang Kawa",Lamandau,"Kalimantan Tengah",Pixel
+509814,2022-09-28,12:32:48,-1.46729147,111.15000916,8,snpp,1125,"Batang Kawa",Lamandau,"Kalimantan Tengah",Pixel
+509815,2022-09-28,12:32:48,-1.47087777,111.15409088,8,snpp,1125,"Batang Kawa",Lamandau,"Kalimantan Tengah",Pixel
+509816,2022-09-28,12:32:48,-1.46822178,111.14976501,8,snpp,1125,"Batang Kawa",Lamandau,"Kalimantan Tengah",Pixel
+509817,2022-09-28,12:32:48,-1.47193968,111.14687347,8,snpp,1125,"Batang Kawa",Lamandau,"Kalimantan Tengah",Pixel
+509818,2022-09-28,12:32:48,-1.47245073,111.14340973,8,snpp,1125,"Batang Kawa",Lamandau,"Kalimantan Tengah",Pixel
+509819,2022-09-28,12:32:48,-1.47289348,111.14665222,8,snpp,1125,"Batang Kawa",Lamandau,"Kalimantan Tengah",Pixel
+509820,2022-09-28,12:32:48,-1.47343326,111.14315796,8,snpp,1125,"Batang Kawa",Lamandau,"Kalimantan Tengah",Pixel
+509821,2022-09-28,12:32:48,-1.45349848,111.1364975,8,snpp,1125,"Batang Kawa",Lamandau,"Kalimantan Tengah",Pixel
+509825,2022-09-28,12:32:48,-0.94772559,114.02297974,8,snpp,1125,"Kapuas Hulu",Kapuas,"Kalimantan Tengah",Pixel
+509827,2022-09-28,12:32:48,-1.20689642,111.78162384,8,snpp,1125,"Suling Tambun",Seruyan,"Kalimantan Tengah",Pixel
+509831,2022-09-28,12:32:48,-0.76125908,114.38451385,7,snpp,1125,"Permata Intan","Murung Raya","Kalimantan Tengah",Pixel
+509834,2022-09-28,12:32:48,-0.68275857,114.67067719,8,snpp,1125,Murung,"Murung Raya","Kalimantan Tengah",Pixel
+509845,2022-09-28,12:32:48,-0.64655787,114.33742523,8,snpp,1125,"Sungai Babuat","Murung Raya","Kalimantan Tengah",Pixel
+509846,2022-09-28,12:32:48,-0.59794962,114.61005402,8,snpp,1125,Murung,"Murung Raya","Kalimantan Tengah",Pixel
+509855,2022-09-28,12:32:48,-0.59550011,114.42024994,8,snpp,1125,"Tanah Siang","Murung Raya","Kalimantan Tengah",Pixel
+509856,2022-09-28,12:32:48,-0.56486279,114.55358124,7,snpp,1125,"Tanah Siang","Murung Raya","Kalimantan Tengah",Pixel
+509859,2022-09-28,12:32:48,-0.57634515,114.45465088,7,snpp,1125,"Tanah Siang","Murung Raya","Kalimantan Tengah",Pixel
+509860,2022-09-28,12:32:48,-0.50263071,114.89651489,7,snpp,1125,"Barito Tuhup Raya","Murung Raya","Kalimantan Tengah",Pixel
+509865,2022-09-28,12:32:48,-0.54175568,114.56861115,8,snpp,1125,"Tanah Siang","Murung Raya","Kalimantan Tengah",Pixel
+509868,2022-09-28,12:32:48,-0.51458555,114.58271027,7,snpp,1125,"Tanah Siang","Murung Raya","Kalimantan Tengah",Pixel
+509894,2022-09-28,12:32:48,-0.36476502,114.7433548,8,snpp,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+509915,2022-09-28,12:32:48,-0.28835884,114.48863983,7,snpp,1125,"Tanah Siang","Murung Raya","Kalimantan Tengah",Pixel
+509952,2022-09-28,12:32:48,-0.15187751,113.78044128,7,snpp,1125,"Seribu Riam","Murung Raya","Kalimantan Tengah",Pixel
+509953,2022-09-28,12:32:48,-0.15535749,113.78095245,7,snpp,1125,"Seribu Riam","Murung Raya","Kalimantan Tengah",Pixel
+509954,2022-09-28,12:32:48,-0.13853063,113.75106049,7,snpp,1125,"Seribu Riam","Murung Raya","Kalimantan Tengah",Pixel
+510273,2022-09-28,13:24:00,-2.13767481,115.23064423,8,noaa20,1125,"Dusun Timur","Barito Timur","Kalimantan Tengah",Pixel
+510274,2022-09-28,13:24:00,-2.10963798,115.25161743,8,noaa20,1125,"Dusun Timur","Barito Timur","Kalimantan Tengah",Pixel
+510275,2022-09-28,13:24:00,-2.10887051,115.2563858,8,noaa20,1125,"Dusun Timur","Barito Timur","Kalimantan Tengah",Pixel
+510277,2022-09-28,13:24:00,-2.09728694,115.21064758,8,noaa20,1125,"Dusun Timur","Barito Timur","Kalimantan Tengah",Pixel
+510278,2022-09-28,13:24:00,-2.0965209,115.21537018,8,noaa20,1125,"Dusun Timur","Barito Timur","Kalimantan Tengah",Pixel
+510299,2022-09-28,13:24:00,-2.08904862,111.94246674,8,noaa20,1125,"Arut Utara","Waringin Barat","Kalimantan Tengah",Pixel
+510300,2022-09-28,13:24:00,-2.16347957,111.07485962,8,noaa20,1125,"Permata Kecubung",Sukamara,"Kalimantan Tengah",Pixel
+510301,2022-09-28,13:24:00,-2.16269398,111.07971954,8,noaa20,1125,"Permata Kecubung",Sukamara,"Kalimantan Tengah",Pixel
+510306,2022-09-28,13:24:00,-1.94377768,112.14816284,8,noaa20,1125,"Seruyan Tengah",Seruyan,"Kalimantan Tengah",Pixel
+510308,2022-09-28,13:24:00,-2.09058952,111.09515381,8,noaa20,1125,Lamadau,Lamandau,"Kalimantan Tengah",Pixel
+510310,2022-09-28,13:24:00,-1.92614222,112.032547,8,noaa20,1125,"Seruyan Tengah",Seruyan,"Kalimantan Tengah",Pixel
+510311,2022-09-28,13:24:00,-1.92568052,112.03541565,8,noaa20,1125,"Seruyan Tengah",Seruyan,"Kalimantan Tengah",Pixel
+510314,2022-09-28,13:24:00,-1.89942551,112.10258484,8,noaa20,1125,"Seruyan Tengah",Seruyan,"Kalimantan Tengah",Pixel
+510315,2022-09-28,13:24:00,-1.89989591,112.09967041,9,noaa20,1125,"Seruyan Tengah",Seruyan,"Kalimantan Tengah",Pixel
+510319,2022-09-28,13:24:00,-1.8900075,112.06536102,8,noaa20,1125,"Seruyan Tengah",Seruyan,"Kalimantan Tengah",Pixel
+510338,2022-09-28,13:24:00,-1.83573115,111.65759277,8,noaa20,1125,"Bulik Timur",Lamandau,"Kalimantan Tengah",Pixel
+510339,2022-09-28,13:24:00,-1.83303583,111.65975189,8,noaa20,1125,"Bulik Timur",Lamandau,"Kalimantan Tengah",Pixel
+510361,2022-09-28,13:24:00,-1.72586381,111.96973419,9,noaa20,1125,"Seruyan Tengah",Seruyan,"Kalimantan Tengah",Pixel
+510362,2022-09-28,13:24:00,-1.72540867,111.97258759,9,noaa20,1125,"Seruyan Tengah",Seruyan,"Kalimantan Tengah",Pixel
+510367,2022-09-28,13:24:00,-1.68658769,111.95837402,9,noaa20,1125,"Seruyan Tengah",Seruyan,"Kalimantan Tengah",Pixel
+510368,2022-09-28,13:24:00,-1.68660331,111.95896149,8,noaa20,1125,"Seruyan Tengah",Seruyan,"Kalimantan Tengah",Pixel
+510383,2022-09-28,13:24:00,-1.49492443,112.60733795,8,noaa20,1125,Antangkalang,"Waringin Timur","Kalimantan Tengah",Pixel
+510394,2022-09-28,13:24:00,-1.36577535,113.01596069,8,noaa20,1125,"Katingan Tengah",Katingan,"Kalimantan Tengah",Pixel
+510400,2022-09-28,13:24:00,-1.62067163,110.95726776,8,noaa20,1125,Delang,Lamandau,"Kalimantan Tengah",Pixel
+510401,2022-09-28,13:24:00,-1.61056006,110.96080017,8,noaa20,1125,Delang,Lamandau,"Kalimantan Tengah",Pixel
+510412,2022-09-28,13:24:00,-1.00524259,114.38463593,8,noaa20,1125,"Kapuas Tengah",Kapuas,"Kalimantan Tengah",Pixel
+510418,2022-09-28,13:24:00,-0.93886554,114.67279816,8,noaa20,1125,"Teweh Tengah","Barito Utara","Kalimantan Tengah",Pixel
+510419,2022-09-28,13:24:00,-0.93995225,114.67430115,8,noaa20,1125,"Teweh Tengah","Barito Utara","Kalimantan Tengah",Pixel
+510421,2022-09-28,13:24:00,-0.92861116,114.61934662,8,noaa20,1125,"Teweh Tengah","Barito Utara","Kalimantan Tengah",Pixel
+510422,2022-09-28,13:24:00,-0.93003583,114.62107849,8,noaa20,1125,"Teweh Tengah","Barito Utara","Kalimantan Tengah",Pixel
+510427,2022-09-28,13:24:00,-1.493258,111.14791107,8,noaa20,1125,"Batang Kawa",Lamandau,"Kalimantan Tengah",Pixel
+510430,2022-09-28,13:24:00,-0.88195795,114.75802612,8,noaa20,1125,"Teweh Tengah","Barito Utara","Kalimantan Tengah",Pixel
+510436,2022-09-28,13:24:00,-0.81875968,114.75927734,8,noaa20,1125,"Lahei Barat","Barito Utara","Kalimantan Tengah",Pixel
+510437,2022-09-28,13:24:00,-0.81877941,114.76236725,8,noaa20,1125,"Lahei Barat","Barito Utara","Kalimantan Tengah",Pixel
+510441,2022-09-28,13:24:00,-1.16829872,112.46183014,8,noaa20,1125,"Katinga Hulu",Katingan,"Kalimantan Tengah",Pixel
+510442,2022-09-28,13:24:00,-1.16866612,112.46330261,9,noaa20,1125,"Katinga Hulu",Katingan,"Kalimantan Tengah",Pixel
+510446,2022-09-28,13:24:00,-1.16649985,112.43893433,8,noaa20,1125,"Katinga Hulu",Katingan,"Kalimantan Tengah",Pixel
+510451,2022-09-28,13:24:00,-0.78138471,114.23210907,8,noaa20,1125,"Permata Intan","Murung Raya","Kalimantan Tengah",Pixel
+510452,2022-09-28,13:24:00,-0.78550333,114.23239136,8,noaa20,1125,"Permata Intan","Murung Raya","Kalimantan Tengah",Pixel
+510455,2022-09-28,13:24:00,-1.06122303,112.42936707,8,noaa20,1125,"Katinga Hulu",Katingan,"Kalimantan Tengah",Pixel
+510460,2022-09-28,13:24:00,-0.63201249,114.54660797,8,noaa20,1125,Murung,"Murung Raya","Kalimantan Tengah",Pixel
+510461,2022-09-28,13:24:00,-0.63387096,114.54576111,8,noaa20,1125,Murung,"Murung Raya","Kalimantan Tengah",Pixel
+510467,2022-09-28,13:24:00,-0.51852435,114.79299164,8,noaa20,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+510468,2022-09-28,13:24:00,-0.51775479,114.79781342,8,noaa20,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+510473,2022-09-28,13:24:00,-0.52139354,114.58032227,8,noaa20,1125,"Tanah Siang","Murung Raya","Kalimantan Tengah",Pixel
+510474,2022-09-28,13:24:00,-0.52127284,114.53250885,8,noaa20,1125,"Tanah Siang","Murung Raya","Kalimantan Tengah",Pixel
+510475,2022-09-28,13:24:00,-0.52298665,114.53213501,8,noaa20,1125,"Tanah Siang","Murung Raya","Kalimantan Tengah",Pixel
+510479,2022-09-28,13:24:00,-0.49360439,114.59102631,8,noaa20,1125,"Tanah Siang","Murung Raya","Kalimantan Tengah",Pixel
+510480,2022-09-28,13:24:00,-0.48090467,114.59280396,8,noaa20,1125,"Tanah Siang","Murung Raya","Kalimantan Tengah",Pixel
+510481,2022-09-28,13:24:00,-0.49588981,114.49707031,8,noaa20,1125,"Tanah Siang","Murung Raya","Kalimantan Tengah",Pixel
+510482,2022-09-28,13:24:00,-0.49526662,114.50105286,8,noaa20,1125,"Tanah Siang","Murung Raya","Kalimantan Tengah",Pixel
+510486,2022-09-28,13:24:00,-0.40474316,114.75816345,8,noaa20,1125,"Laung Tuhup","Murung Raya","Kalimantan Tengah",Pixel
+510516,2022-09-28,13:24:00,-0.14257516,113.75463104,8,noaa20,1125,"Seribu Riam","Murung Raya","Kalimantan Tengah",Pixel
+510517,2022-09-28,13:24:00,-0.14835715,113.75547791,8,noaa20,1125,"Seribu Riam","Murung Raya","Kalimantan Tengah",Pixel
+510528,2022-09-28,13:24:00,-0.0918633,113.62055969,8,noaa20,1125,"Seribu Riam","Murung Raya","Kalimantan Tengah",Pixel
+510542,2022-09-28,13:24:00,0.12356041,113.94080353,8,noaa20,1125,"Seribu Riam","Murung Raya","Kalimantan Tengah",Pixel
+510543,2022-09-28,13:24:00,0.12469044,113.94003296,8,noaa20,1125,"Seribu Riam","Murung Raya","Kalimantan Tengah",Pixel
+510677,2022-09-29,00:24:02,-3.15112042,113.643013,8,noaa20,1125,"Kahayan Kuala",Pulangpisau,"Kalimantan Tengah",Pixel
+510720,2022-09-29,01:19:31,-3.15223265,113.64468384,8,snpp,1125,"Kahayan Kuala",Pulangpisau,"Kalimantan Tengah",Pixel
+511040,2022-09-29,13:05:05,-1.31560552,115.29531097,8,noaa20,1125,"Gunung Timang","Barito Utara","Kalimantan Tengah",Pixel
+511041,2022-09-29,13:05:05,-1.29228508,115.23072815,8,noaa20,1125,"Gunung Timang","Barito Utara","Kalimantan Tengah",Pixel
+511042,2022-09-29,13:05:05,-1.26077306,115.34427643,8,noaa20,1125,"Gunung Timang","Barito Utara","Kalimantan Tengah",Pixel
+511043,2022-09-29,13:05:05,-1.26535785,115.34494019,8,noaa20,1125,"Gunung Timang","Barito Utara","Kalimantan Tengah",Pixel
+511048,2022-09-29,13:05:05,-0.76968217,114.18320465,8,noaa20,1125,"Permata Intan","Murung Raya","Kalimantan Tengah",Pixel

@@ -1,13 +1,18 @@
 <?php
 
+// Gunakan Beberapa File Yang Diperlukan
 use AnourValar\Office\Format;
 use AnourValar\Office\SheetsService;
 
 require 'vendor/autoload.php';
 
+// Jika Formatnya Sudah Dipilih Pada Menu Sebelumnya, Maka Jalankan Kode Berikut
 if (isset($_POST['format'])) {
+
+    // Menggenerate Random String
     $randomString = substr(md5(mt_rand()), 0, 7);
 
+    // Upload File Yang Akan DiEksekusi
     if ($_FILES['file']['name'] != "") {
         $target_dir = "upload/";
         $file = $_FILES['file']['name'];
@@ -24,14 +29,19 @@ if (isset($_POST['format'])) {
         }
     }
 
+    // Baca File Yang Sudah Di Upload
     $data = explode("\n", file_get_contents($path_filename_ext));
 
+    // Inisialisasi Angka Untuk Perulangan
     $hitungBaris = 0;
     $kotimHitung = 0;
     $seruyanHitung = 0;
     $katinganHitung = 0;
 
+    // Jika Format Pada Menu Sebelumnya Memilih Format Lama, Maka Jalankan Kode Berikut
     if ($_POST['format'] == "Lama") {
+
+        // Pecah Datanya Berdasarkan Tab Delimiter
         foreach ($data as $baris) {
             $dataPecah[$hitungBaris] = explode("\t", $baris);
             $dataHasilPecah[$hitungBaris] = [
@@ -49,6 +59,7 @@ if (isset($_POST['format'])) {
             $hitungBaris++;
         }
 
+        // Filter Masing-Masing Datanya
         foreach (array_slice($dataHasilPecah, 1) as $item) {
             if (trim((string) @$item['kabupaten']) == 'KAB. KOTAWARINGIN TIMUR') {
                 $kotim[$kotimHitung] = $item;
@@ -62,11 +73,18 @@ if (isset($_POST['format'])) {
             }
         }
 
+        // Satukan Datanya
         $hasil = ['kotim' => @$kotim, 'katingan' => @$katingan, 'seruyan' => @$seruyan];
 
+        // Generate Datanya Sesuai File "Template.xlsx"
         $service = new SheetsService();
         $template =  $service->generate('Template.xlsx', $hasil);
+
+
+        // Jika Format Pada Menu Sebelumnya Memilih Format Baru, Maka Jalankan Kode Berikut
     } elseif ($_POST['format'] == "Baru") {
+
+        // Pecah Datanya Berdasarkan Coma Seperated Value
         foreach ($data as $baris) {
             $dataPecah[$hitungBaris] = explode(",", $baris);
             $dataHasilPecah[$hitungBaris] = [
@@ -86,6 +104,7 @@ if (isset($_POST['format'])) {
             $hitungBaris++;
         }
 
+        // Filter Masing-Masing Datanya
         foreach (array_slice($dataHasilPecah, 1) as $item) {
             if (trim((string) @$item['kabupaten']) == 'Waringin Timur') {
                 $kotim[$kotimHitung] = $item;
@@ -99,15 +118,21 @@ if (isset($_POST['format'])) {
             }
         }
 
+        // Satukan Datanya
         $hasil = ['kotim' => @$kotim, 'katingan' => @$katingan, 'seruyan' => @$seruyan];
 
+        // Generate Datanya Sesuai File "Template2.xlsx"
         $service = new SheetsService();
         $template =  $service->generate('Template2.xlsx', $hasil);
     }
 
+    // Simpan dan Download Data Yang Sudah Di Generate
     $template->saveAs('download/' . $randomString . '.xlsx', Format::Xlsx);
     $lokasi = 'download/' . $randomString . '.xlsx';
     header("Location: $lokasi");
+
+
+    // Jika Formatnya Belum Dipilih Pada Menu Sebelumnya, Maka Jalankan Kode Berikut
 } else {
     header("Location: index.php");
 }
